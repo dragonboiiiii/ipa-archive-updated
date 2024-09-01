@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>22G90</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>GrowIt</string>
+	<key>CFBundleExecutable</key>
+	<string>GrowMyFood</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>ioscodevn.png</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string>com.grow.my.food</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>GrowMyFood</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.6</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>2369450</string>
+	<key>DTAppStoreToolsBuild</key>
+	<string>14E221</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>20C52</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>DTPlatformVersion</key>
+	<string>16.2</string>
+	<key>DTSDKBuild</key>
+	<string>20C52</string>
+	<key>DTSDKName</key>
+	<string>iphoneos16.2</string>
+	<key>DTXcode</key>
+	<string>1420</string>
+	<key>DTXcodeBuild</key>
+	<string>14C18</string>
+	<key>DTXcodeBuildDistribution</key>
+	<string>14C18</string>
+	<key>GLSBuilderKey</key>
+	<string>NIcQV1CkQLax/83eQDStW4QVG5NOz7qt//ZdAVmZLjDpu/wUiXpK+ZO3AMNXgJVTvNlkHyPWmhmw8JoO65pemecEJ5Uw214DiAiuynq/QJkf90YAS5rLtHyg8HDYWwNtRPkTdWo9GqP3teeiVFyYGtL9ebgQWwJhulgV8A9dajq9fVfiPByA6KnM4pw+Snps0f+2ynwXHPlk3cNDPtdDsHUJkZfveteiCgDIlR0ctFwEIQXmPaTEjA+YEi6xtpC4pCJePcMxTz9Isbc2ct9PTiJU3rx4tWJKUeLcjvxDoXcPcM2Bbjjp3IKjnz8vL4108AZs2IsG/VjQJ8r3d2OgHA==</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>14.0</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Snap a picture of a plant and GrowIt can identify it</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Your location will be used to provide you with relevant food lists</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Allow us to save photos to your album</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Submit a picture of plant and GrowIt can identify it</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>This allows us to personalize content for you, and improve attribution (to bring more users like you to GrowIt)</string>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen.storyboard</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+</dict>
+</plist>

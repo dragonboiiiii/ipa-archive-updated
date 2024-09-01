@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppGroupId</key>
+	<string>group.com.mservice.com.vn.MoMoTransfer</string>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>com.transistorsoft.fetch</string>
+	</array>
+	<key>BuildMachineOSBuild</key>
+	<string>22A8380</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>MoMo</string>
+	<key>CFBundleExecutable</key>
+	<string>MoMoPlatform Store</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon60x60</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>AppIcon</string>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.mservice.com.vn.MoMoTransfer</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>MoMoPlatform Store</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>4.1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.momo.appv2.ios</string>
+				<string>com.mservice.com.vn.MoMoTransfer</string>
+				<string>com.mservice.com.vn.momotransfer</string>
+				<string>momo</string>
+				<string>fb358187462045265</string>
+				<string>fb343696409624609</string>
+				<string>max</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>41001</string>
+	<key>DTAppStoreToolsBuild</key>
+	<string>14E221</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>20C52</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>DTPlatformVersion</key>
+	<string>16.2</string>
+	<key>DTSDKBuild</key>
+	<string>20C52</string>
+	<key>DTSDKName</key>
+	<string>iphoneos16.2</string>
+	<key>DTXcode</key>
+	<string>1420</string>
+	<key>DTXcodeBuild</key>
+	<string>14C18</string>
+	<key>DTXcodeBuildDistribution</key>
+	<string>14C18</string>
+	<key>ENVIRONMENT</key>
+	<string>PRODUCTION</string>
+	<key>FacebookAdvertiserIDCollectionEnabled</key>
+	<true/>
+	<key>FacebookAppID</key>
+	<string>358187462045265</string>
+	<key>FacebookClientToken</key>
+	<string>dd760e90796c78957f7e6072c33ea519</string>
+	<key>FacebookDisplayName</key>
+	<string>Ví điện tử MoMo</string>
+	<key>FirebaseCrashlyticsCollectionEnabled</key>
+	<true/>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fb</string>
+		<string>fb-messenger</string>
+		<string>fbapi</string>
+		<string>fbapi20130214</string>
+		<string>fbapi20130410</string>
+		<string>fbapi20130702</string>
+		<string>fbapi20131010</string>
+		<string>fbapi20131219</string>
+		<string>fbapi20140410</string>
+		<string>fbapi20140116</string>
+		<string>fbapi20150313</string>
+		<string>fbapi20150629</string>
+		<string>fbapi20160328</string>
+		<string>fbauth</string>
+		<string>fb-messenger-share-api</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+		<string>facebook-stories</string>
+		<string>vn.vuiphattai.lotto</string>
+		<string>vn.vuiphattai.docdac</string>
+		<string>com.ahamove.user</string>
+		<string>cinema.cgv.vn</string>
+		<string>vn.tiki.app.Tiki</string>
+		<string>vn.tiki.inhouse.dev.Tiki</string>
+		<string>com.ahamove.Driver</string>
+		<string>com.ahamove.DriverSTG</string>
+		<string>uber</string>
+		<string>viber</string>
+		<string>vn.lala.user</string>
+		<string>vn.lala.user.stg</string>
+		<string>com.thecoffeehouse.guestapp</string>
+		<string>vn.zalora</string>
+		<string>robins</string>
+		<string>vinasun.taxi</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MINIMUM_DEPLOY_TARGET</key>
+	<string>32</string>
+	<key>MinimumOSVersion</key>
+	<string>13.0</string>
+	<key>NFCReaderUsageDescription</key>
+	<string>We need to use NFC</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSBioIDCancelUsageDescription</key>
+	<string>Bỏ qua</string>
+	<key>NSBioIDFaceIDUsageDescription</key>
+	<string>Sử dụng FaceID để mở khóa MoMo</string>
+	<key>NSBioIDTouchIDUsageDescription</key>
+	<string>Sử dụng TouchID để mở khóa MoMo</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Cho phép MoMo truy cập Bluetooth để tìm thiết bị.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Cho phép MoMo truy cập Bluetooth để tìm thiết bị.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Cho phép MoMo truy cập Lịch để tạo sự kiện.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Cho phép MoMo truy cập tính năng Camera để chụp ảnh, quét mã thanh toán QRCode, BarCode.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Cho phép MoMo truy cập Danh bạ để đồng bộ danh bạ và truy cập danh bạ nhanh hơn.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Cho phép MoMo truy cập FaceID để có thể đăng nhập bằng FaceID.</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>Cho phép MoMo truy cập tính năng Health để đếm bước chân.</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>Cho phép MoMo truy cập tính năng Health để đếm bước chân.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Cho phép MoMo truy cập Vị trí để hiển thị vị trí hiện tại và tìm địa điểm gần đây nhất.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Cho phép MoMo truy cập Vị trí để hiển thị vị trí hiện tại và tìm địa điểm gần đây nhất.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Cho phép MoMo truy cập Vị trí để hiển thị vị trí hiện tại và tìm địa điểm gần đây nhất.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Cho phép MoMo truy cập Vị trí để hiển thị vị trí hiện tại và tìm địa điểm gần đây nhất.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Truy cập micro để bắt đầu đọc lệnh chuyển tiền.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Cho phép MoMo truy cập Thư viện hình ảnh để có thể lưu hình ảnh.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Cho phép MoMo truy cập Thư viện hình ảnh để cập nhật hình ảnh đại diện hay lựa chọn upload hình ảnh.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Giúp bạn chuyển tiền bằng giọng nói của mình.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Cho phép MoMo truy cập Thông tin thiết bị để tối ưu hóa ứng dụng và gợi ý các tính năng phù hợp cho bạn.</string>
+	<key>PLATFORM_VERSION</key>
+	<string>70</string>
+	<key>TI_ENVIRONMENT</key>
+	<string>https://tiv2.mservice.io/</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Rowdies-Bold.ttf</string>
+		<string>Rowdies-Light.ttf</string>
+		<string>Rowdies-Regular.ttf</string>
+		<string>Bungee-Regular.ttf</string>
+		<string>SFProText-Bold.ttf</string>
+		<string>SFProText-Regular.ttf</string>
+		<string>SFProText-Semibold.ttf</string>
+		<string>SFProText-Light.ttf</string>
+		<string>SFProText-Heavy.ttf</string>
+		<string>SFProText-Medium.ttf</string>
+		<string>SFProText-Black.ttf</string>
+		<string>SFProText-Thin.ttf</string>
+		<string>SFProText-Ultralight.ttf</string>
+		<string>AlegreyaSans-Bold.ttf</string>
+		<string>AlegreyaSans-Medium.ttf</string>
+		<string>AlegreyaSans-Regular.ttf</string>
+		<string>AlegreyaSans-Thin.ttf</string>
+		<string>AlegreyaSans-Black.ttf</string>
+		<string>SVN-AgencyFBBold.ttf</string>
+		<string>UTM-Colossalis.ttf</string>
+	</array>
+	<key>UIApplicationShortcutItems</key>
+	<array>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>IC_Topup</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Nạp tiền</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>topbar_cashin</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>IC_TransferMoney</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Chuyển tiền</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>transfer_p2p</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>IC_Receive</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>QR Nhận tiền</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>my_qrcode</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>IC_Scan</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Quét mã</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>topbar_scancode</string>
+		</dict>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>location</string>
+		<string>processing</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>Launch Screen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<true/>
+	<key>VKEY_VERSION</key>
+	<string></string>
+	<key>com.apple.developer.nfc.readersession.formats</key>
+	<array>
+		<string>NDEF</string>
+		<string>TAG</string>
+	</array>
+	<key>com.apple.developer.nfc.readersession.iso7816.select-identifiers</key>
+	<array>
+		<string>A0000002471001</string>
+	</array>
+	<key>resignApp</key>
+	<false/>
+</dict>
+</plist>

@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>com.mbc.reddi</string>
+	</array>
+	<key>BuildMachineOSBuild</key>
+	<string>21G531</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>Wintel</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>AppIcon-dev</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-dev60x60</string>
+					<string>AppIcon-dev76x76</string>
+				</array>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-dev</string>
+			</dict>
+			<key>AppIcon-uat</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-uat60x60</string>
+					<string>AppIcon-uat76x76</string>
+				</array>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-uat</string>
+			</dict>
+		</dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon60x60</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>AppIcon</string>
+		</dict>
+	</dict>
+	<key>CFBundleIcons~ipad</key>
+	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>AppIcon-dev</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-dev60x60</string>
+					<string>AppIcon-dev76x76</string>
+				</array>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-dev</string>
+			</dict>
+			<key>AppIcon-uat</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-uat60x60</string>
+					<string>AppIcon-uat76x76</string>
+				</array>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-uat</string>
+			</dict>
+		</dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon60x60</string>
+				<string>AppIcon76x76</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>AppIcon</string>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.mbc.reddi</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Wintel</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>11.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb2875316216046436</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.940267900789-jds3vie3v45n128c6n4opaaqh97js3i7</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>reddiapp</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>mobicast.page.link</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>CodePushDeploymentKey</key>
+	<string>jnmm5BUz0st2CWQzNQ8sK9q-Oy9rE8Vq-gGjA</string>
+	<key>DTAppStoreToolsBuild</key>
+	<string>14E221</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>20C52</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>DTPlatformVersion</key>
+	<string>16.2</string>
+	<key>DTSDKBuild</key>
+	<string>20C52</string>
+	<key>DTSDKName</key>
+	<string>iphoneos16.2</string>
+	<key>DTXcode</key>
+	<string>1420</string>
+	<key>DTXcodeBuild</key>
+	<string>14C18</string>
+	<key>DTXcodeBuildDistribution</key>
+	<string>14C18</string>
+	<key>FIREBASE_ANALYTICS_COLLECTION_ENABLED</key>
+	<true/>
+	<key>FacebookAppID</key>
+	<string>2875316216046436</string>
+	<key>FacebookDisplayName</key>
+	<string>Wintel</string>
+	<key>FirebaseAutomaticScreenReportingEnabled</key>
+	<false/>
+	<key>FirebaseCrashlyticsCollectionEnabled</key>
+	<false/>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbapi</string>
+		<string>fb-messenger-share-api</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>11.0</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>New Exception Domain</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+			</dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Need to access camera to capture picture of customer's papers for customer identity confirmation when active telecom service</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Need to access your contacts for use in services, share account</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Wintel requires FaceID access to allows you quick and secure access.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Chia sẻ vị trí của bạn</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Need to access your microphone to call for call center support when you have any questions or issues in app </string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Wintel requires access your photos to allows you can setup/change profile picture</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Wintel requires access your photos to allows you can setup/change profile picture</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>SVN-Gilroy-Regular.otf</string>
+		<string>SVN-Gilroy-Bold.otf</string>
+		<string>SVN-Gilroy-Italic.otf</string>
+		<string>SVN-Gilroy-Medium.otf</string>
+		<string>Inter-Bold.ttf</string>
+		<string>Inter-Medium.ttf</string>
+		<string>Inter.ttf</string>
+		<string>Montserrat-Bold.ttf</string>
+		<string>Montserrat-Medium.ttf</string>
+		<string>Montserrat-Regular.ttf</string>
+		<string>AntDesign.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Regular.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>Fontisto.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Zocial.ttf</string>
+		<string>SVN-Gilroy-Medium.ttf</string>
+		<string>SVN-Gilroy-Bold.ttf</string>
+		<string>SVN-Gilroy Regular.otf</string>
+		<string>SVN-Gilroy Italic.otf</string>
+		<string>SVN-Gilroy Thin.otf</string>
+		<string>SVN-Gilroy Thin Italic.otf</string>
+		<string>SVN-Gilroy XLight.otf</string>
+		<string>SVN-Gilroy XLight Italic.otf</string>
+		<string>SVN-Gilroy Light.otf</string>
+		<string>SVN-Gilroy Light Italic.otf</string>
+		<string>SVN-Gilroy Medium.otf</string>
+		<string>SVN-Gilroy Medium Italic.otf</string>
+		<string>SVN-Gilroy Semibold Italic.otf</string>
+		<string>SVN-Gilroy Bold.otf</string>
+		<string>SVN-Gilroy Bold Italic.otf</string>
+		<string>SVN-Gilroy XBold.otf</string>
+		<string>SVN-Gilroy XBold Italic.otf</string>
+		<string>SVN-Gilroy Heavy.otf</string>
+		<string>SVN-Gilroy Heavy Italic.otf</string>
+		<string>SVN-Gilroy Black Italic.otf</string>
+		<string>SVN-Gilroy Black.otf</string>
+		<string>Tahoma.ttf</string>
+		<string>SVN-Gilroy SemiBold.otf</string>
+		<string>ProximaSoft-BlackIt.ttf</string>
+		<string>ProximaSoft-Bold.ttf</string>
+		<string>ProximaSoft-BoldIt.ttf</string>
+		<string>ProximaSoft-ExtraBold.ttf</string>
+		<string>ProximaSoft-ExtraBoldIt.ttf</string>
+		<string>ProximaSoft-Light.ttf</string>
+		<string>ProximaSoft-LightIt.ttf</string>
+		<string>ProximaSoft-Medium.ttf</string>
+		<string>ProximaSoft-MediumIt.ttf</string>
+		<string>ProximaSoft-Regular.ttf</string>
+		<string>ProximaSoft-RegularIt.ttf</string>
+		<string>ProximaSoft-SemiBold.ttf</string>
+		<string>ProximaSoft-SemiBoldIt.ttf</string>
+		<string>ProximaSoft-Thin.ttf</string>
+		<string>ProximaSoft-ThinIt.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>processing</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>firebase_json_raw</key>
+	<string>eyJhbmFseXRpY3NfYXV0b19jb2xsZWN0aW9uX2VuYWJsZWQiOiB0cnVlLCAiZ29vZ2xlX2FuYWx5dGljc19hdXRvbWF0aWNfc2NyZWVuX3JlcG9ydGluZ19lbmFibGVkIjogZmFsc2UsICJtZXNzYWdpbmdfaW9zX2F1dG9fcmVnaXN0ZXJfZm9yX3JlbW90ZV9tZXNzYWdlcyI6IHRydWUsICJtZXNzYWdpbmdfaW9zX2ZvcmVncm91bmRfcHJlc2VudGF0aW9uX29wdGlvbnMiOiBbImJhZGdlIiwgInNvdW5kIiwgImxpc3QiLCAiYmFubmVyIl19</string>
+</dict>
+</plist>

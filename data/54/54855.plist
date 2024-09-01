@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>22C65</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>Videdit</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>ioscodevn.png</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string>com.mekits.Videdit</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Videdit</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>23.08.08</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>DTAppStoreToolsBuild</key>
+	<string>14E221</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>20E238</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>DTPlatformVersion</key>
+	<string>16.4</string>
+	<key>DTSDKBuild</key>
+	<string>20E238</string>
+	<key>DTSDKName</key>
+	<string>iphoneos16.4</string>
+	<key>DTXcode</key>
+	<string>1430</string>
+	<key>DTXcodeBuild</key>
+	<string>14E222b</string>
+	<key>GADApplicationIdentifier</key>
+	<string>ca-app-pub-7126858713579294~4305150091</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>12.0</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSAllowsArbitraryLoadsForMedia</key>
+		<true/>
+		<key>NSAllowsArbitraryLoadsInWebContent</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Pick up the media to edit</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Record a video to edit</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Record the sound to edit</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Pick up the video to edit</string>
+	<key>SKAdNetworkItems</key>
+	<array>
+		<dict>
+			<key>SKAdNetworkIdentifier</key>
+			<string>cstr6suwn9.skadnetwork</string>
+		</dict>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>站酷酷黑.ttf</string>
+		<string>站酷快乐体.ttf</string>
+		<string>BlackOpsOne-Regular.ttf</string>
+		<string>Cheque-Black.otf</string>
+		<string>Caviar Dreams.ttf</string>
+		<string>ChunkFive.otf</string>
+		<string>DS-Digital.TTF</string>
+		<string>Graduate-Regular.ttf</string>
+		<string>Intro Rust G.otf</string>
+		<string>Intro Script R.otf</string>
+		<string>Knewave-Regular.ttf</string>
+		<string>Kungfont-Regular.otf</string>
+		<string>Lobster-Regular.ttf</string>
+		<string>LOT.otf</string>
+		<string>Orbitron Black.otf</string>
+		<string>NewRocker-Regular.ttf</string>
+		<string>Perfograma.otf</string>
+		<string>Phenomena-Regular.otf</string>
+		<string>Rubik-BoldItalic.ttf</string>
+		<string>SensaBrush-FillDemo.otf</string>
+		<string>SerpentineDBol.ttf</string>
+		<string>StencilStd.ttf</string>
+		<string>VT323-Regular.ttf</string>
+	</array>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+</dict>
+</plist>

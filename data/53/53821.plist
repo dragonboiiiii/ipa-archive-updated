@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>21G115</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>4K Recorder++</string>
+	<key>CFBundleExecutable</key>
+	<string>mRecorder</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>ioscodevn.png</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string>CHENYONG.4KVideoRecorder</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>mRecorder</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.3.1</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>20221015</string>
+	<key>DTAppStoreToolsBuild</key>
+	<string>14A305</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>20A360</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>DTPlatformVersion</key>
+	<string>16.0</string>
+	<key>DTSDKBuild</key>
+	<string>20A360</string>
+	<key>DTSDKName</key>
+	<string>iphoneos16.0</string>
+	<key>DTXcode</key>
+	<string>1401</string>
+	<key>DTXcodeBuild</key>
+	<string>14A400</string>
+	<key>DTXcodeBuildDistribution</key>
+	<string>14A400</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>13.0</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Record Video</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Create location tag for the recorded video</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Record video's sound</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Save recorded video to Photo Library</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Save recorded video to Photo Library and display videos in Photo Library</string>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+</dict>
+</plist>

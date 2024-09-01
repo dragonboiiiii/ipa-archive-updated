@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>22C65</string>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>Night Sky++</string>
+	<key>CFBundleExecutable</key>
+	<string>Night Sky</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>ioscodevn.png</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string>com.icandiapps.nightsky</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Night Sky</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>11.4.1</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb251024124969413</string>
+				<string>nightsky</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>11.4.1</string>
+	<key>CKSharingSupported</key>
+	<true/>
+	<key>DTAppStoreToolsBuild</key>
+	<string>14C17</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>20B71</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>DTPlatformVersion</key>
+	<string>16.1</string>
+	<key>DTSDKBuild</key>
+	<string>20B71</string>
+	<key>DTSDKName</key>
+	<string>iphoneos16.1</string>
+	<key>DTXcode</key>
+	<string>1410</string>
+	<key>DTXcodeBuild</key>
+	<string>14B47b</string>
+	<key>DTXcodeBuildDistribution</key>
+	<string>14B47b</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>14.0</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Access calendar to import events from news and generate tours for upcoming trips.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>We're using camera to align app's image to real sky.</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>Access Health data to save mindful minutes.</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>Access Health data to save mindful minutes.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Access current location to show sky state at this point, access stargazing rating for this region and schedule sky notifications.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Access current location to show sky state at this point, access stargazing rating for this region and schedule sky notifications.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Access current location to access stargazing rating for this region.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Access current location to show sky state at this point and access stargazing rating for this region.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Access microphone for video recording in Astrophotography mode.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Access headphones orientation to provide better object locating sound experience.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Access photos taken in Share Sky View mode.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Access photos taken in Astrophotography mode.</string>
+	<key>NSSupportsLiveActivities</key>
+	<true/>
+	<key>NSUserActivityTypes</key>
+	<array>
+		<string>RecognizeObjectIntent</string>
+		<string>ShowObjectIntent</string>
+		<string>StartMindfulnessIntent</string>
+		<string>com.icandiapps.nightsky.community</string>
+		<string>com.icandiapps.nightsky.conditions</string>
+		<string>com.icandiapps.nightsky.darksite</string>
+		<string>com.icandiapps.nightsky.infopack</string>
+		<string>com.icandiapps.nightsky.news</string>
+	</array>
+	<key>SCNDisableLinearSpaceRendering</key>
+	<true/>
+	<key>SCNDisableWideGamut</key>
+	<true/>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<true/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>CPTemplateApplicationSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneClassName</key>
+					<string>CPTemplateApplicationScene</string>
+					<key>UISceneConfigurationName</key>
+					<string>TemplateSceneConfiguration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>CarPlayAppController</string>
+				</dict>
+			</array>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default</string>
+					<key>UISceneDelegateClassName</key>
+					<string>NightSkySceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Launch Screen</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>Launch Screen</string>
+	<key>UIPrerenderedIcon</key>
+	<true/>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<false/>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+	<key>UIUserInterfaceStyle</key>
+	<string>Dark</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>22A400</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>LogoMaker</string>
+	<key>CFBundleExecutable</key>
+	<string>LogoMaker</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon60x60</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>AppIcon</string>
+		</dict>
+	</dict>
+	<key>CFBundleIcons~ipad</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon60x60</string>
+				<string>AppIcon76x76</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>AppIcon</string>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.ISTLabs.LogoMaker</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>LogoMaker</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.2.1</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb147729929351010</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>DTAppStoreToolsBuild</key>
+	<string>14C17</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>20C52</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>DTPlatformVersion</key>
+	<string>16.2</string>
+	<key>DTSDKBuild</key>
+	<string>20C52</string>
+	<key>DTSDKName</key>
+	<string>iphoneos16.2</string>
+	<key>DTXcode</key>
+	<string>1420</string>
+	<key>DTXcodeBuild</key>
+	<string>14C18</string>
+	<key>DTXcodeBuildDistribution</key>
+	<string>14C18</string>
+	<key>FacebookAppID</key>
+	<string>147729929351010</string>
+	<key>FacebookDisplayName</key>
+	<string>Logo Maker</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>instagram</string>
+		<string>fbapi</string>
+		<string>fb-messenger-api</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+	</array>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>12.0</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>amazonaws.com</key>
+			<dict>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+				<key>NSTemporaryExceptionMinimumTLSVersion</key>
+				<string>TLSv1.1</string>
+			</dict>
+			<key>istapi.com</key>
+			<dict>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+				<key>NSTemporaryExceptionMinimumTLSVersion</key>
+				<string>TLSv1.1</string>
+			</dict>
+			<key>silkyquote.com</key>
+			<dict>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+				<key>NSTemporaryExceptionMinimumTLSVersion</key>
+				<string>TLSv1.1</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Your camera will be used if you choose to create a project using the camera.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Our application needs permission to write photos...</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Your photo library may be used when creating a project to let you choose images from your library</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Sleeplesson.ttf</string>
+		<string>DOMIN___.TTF</string>
+		<string>RAGE.TTF</string>
+		<string>Isle of Staffa.otf</string>
+		<string>berkshireswash-regular.ttf</string>
+		<string>Infusion Script.otf</string>
+		<string>Pacifico.ttf</string>
+		<string>Scriptyca.ttf</string>
+		<string>Borea___.ttf</string>
+		<string>Port Blair Regular.otf</string>
+		<string>PortraitScript-Alts.otf</string>
+		<string>PortraitScript-Bounce-Bold.otf</string>
+		<string>Bison-ThickOutline.ttf</string>
+		<string>LHFoldstockregular1.otf</string>
+		<string>CormorantInfant-BoldItalic.ttf</string>
+		<string>LuloCleanOutline.otf</string>
+		<string>GoldanaOutlineExtrude.otf</string>
+		<string>Old Scotch Vintage.otf</string>
+		<string>HennyPenny-Regular.ttf</string>
+		<string>BERNIERShade-Regular.ttf</string>
+		<string>BebasNeue-Book.ttf</string>
+		<string>LHFoldstockshadow1.otf</string>
+		<string>GravitasOne.ttf</string>
+		<string>Old Scotch Vintage Shadow.otf</string>
+		<string>Times New Roman Bold Italic.ttf</string>
+		<string>PlayfairDisplay-BoldItalic.otf</string>
+		<string>LHFoldstockregular2.otf</string>
+		<string>Copperplate Gothic Light.ttf</string>
+		<string>GearedSlab-Light.ttf</string>
+		<string>NovaCut.ttf</string>
+		<string>Times New Roman Italic.ttf</string>
+		<string>BebasNeue-Bold.ttf</string>
+		<string>LHFoldstockshadow2.otf</string>
+		<string>big_noodle_titling.ttf</string>
+		<string>Phenomena-ExtraLight.ttf</string>
+		<string>CroissantOne-Regular.ttf</string>
+		<string>BebasNeue-Thin.ttf</string>
+		<string>Ubuntu-Medium.ttf</string>
+		<string>Fonarto.ttf</string>
+		<string>Geo-Regular.ttf</string>
+		<string>Bodoni BT Book.ttf</string>
+		<string>Boogaloo-Regular.ttf</string>
+		<string>Kameron-Bold.ttf</string>
+		<string>Recia-Light.ttf</string>
+		<string>ArchivoBlack.otf</string>
+		<string>Chunkfive.otf</string>
+		<string>MontserratAlternates-Bold.ttf</string>
+		<string>GoldanaDropStripes.otf</string>
+		<string>16kabe.ttf</string>
+		<string>Futura Bk BT Book.ttf</string>
+		<string>Comfortaa-Light.ttf</string>
+		<string>HurleyRegular.otf</string>
+		<string>GoldanaBase.otf</string>
+		<string>Vidaloka-Regular.otf</string>
+		<string>Edo.ttf</string>
+		<string>Typnic Headline Slab Inline.otf</string>
+		<string>Charletto Script.otf</string>
+		<string>Holiday.otf</string>
+		<string>BERNIERRegular-Regular.ttf</string>
+		<string>Chivo-Italic.ttf</string>
+		<string>Phenomena-Bold.ttf</string>
+		<string>FascinateInline-Regular.ttf</string>
+		<string>Signorita Rough.otf</string>
+		<string>Lavanderia_Sturdy.otf</string>
+		<string>Typnic Headline Slab Shadow.otf</string>
+		<string>Lot-Regular.ttf</string>
+		<string>PlayfairDisplay-Bold.otf</string>
+		<string>Bodoni BT Book Italic.ttf</string>
+		<string>GoldanaStencil.otf</string>
+		<string>Bison-Bold.ttf</string>
+		<string>Ailerons-Typeface.otf</string>
+		<string>Times New Roman.ttf</string>
+		<string>TrajanPro-Bold.ttf</string>
+		<string>AllertaStencil-Regular.ttf</string>
+		<string>HaginCapsThin-Thin.ttf</string>
+		<string>Bison-ThickOutlineItallic.ttf</string>
+		<string>Rottles Script.otf</string>
+		<string>Montana-Rouughen-Press.otf</string>
+		<string>TrajanPro-Regular.ttf</string>
+		<string>Microbrew-Soft-Seven.ttf</string>
+		<string>Ubuntu-LightItalic.ttf</string>
+		<string>Montana-Regular.otf</string>
+		<string>Nexa Bold.otf</string>
+		<string>AbrilFatface-Regular.otf</string>
+		<string>Halimun.otf</string>
+		<string>LobsterTwo-Regular.otf</string>
+		<string>GoldanaDotSolo.otf</string>
+		<string>BOOKOSB.TTF</string>
+		<string>Stiff Staff.otf</string>
+		<string>Golok.ttf</string>
+		<string>BebasNeue-Regular.ttf</string>
+		<string>Sacramento-Regular.ttf</string>
+		<string>Chivo-BlackItalic.ttf</string>
+		<string>Montserrat-Bold.ttf</string>
+		<string>Gatefold Book.otf</string>
+		<string>Recia-BoldItalic.ttf</string>
+		<string>LeagueGothic-Regular.otf</string>
+		<string>CrystalCastle-Regular.ttf</string>
+		<string>Phenomena-Regular.ttf</string>
+		<string>Bison-RegularItallic.ttf</string>
+		<string>16Regensburg.ttf</string>
+		<string>Fonarto XT.ttf</string>
+		<string>big_noodle_titling_oblique.ttf</string>
+		<string>Typnic Headline Slab Fill.otf</string>
+		<string>Quicksand-Bold.otf</string>
+		<string>Old Scotch Clean.otf</string>
+		<string>Coldiac Regular.otf</string>
+		<string>VAL Stencil.otf</string>
+		<string>Sports World-Regular.otf</string>
+		<string>Phenomena-Black.ttf</string>
+		<string>Gatefold Book Italic.otf</string>
+		<string>lethal-injector-bold.ttf</string>
+		<string>GoldanaOutline.otf</string>
+		<string>ALGER.TTF</string>
+		<string>HaginCapsMedium-Medium.ttf</string>
+		<string>GearedSlab.ttf</string>
+		<string>Lovelo Black.otf</string>
+		<string>GoldanaInlineSolo.otf</string>
+		<string>OldStandard-Bold.ttf</string>
+		<string>Ewert-Regular.ttf</string>
+		<string>Oswald-Regular.ttf</string>
+		<string>Square721 Cn BT Roman.ttf</string>
+		<string>GoldanaScript.otf</string>
+		<string>Chivo-Regular.ttf</string>
+		<string>Bison-LightItallic.ttf</string>
+		<string>Old Scotch Rusty.otf</string>
+		<string>Arbutus-Regular.ttf</string>
+		<string>BERNIERDistressed-Regular.ttf</string>
+		<string>GoldanaDot.otf</string>
+		<string>CreteRound-Italic.ttf</string>
+		<string>Rollfast-Rounded Black.ttf</string>
+		<string>Typnic Headline Slab.otf</string>
+		<string>impact_0.ttf</string>
+		<string>Bison-Light.ttf</string>
+		<string>GearedSlab-Extrabold.ttf</string>
+		<string>LeagueSpartan-Bold.otf</string>
+		<string>norwester.otf</string>
+		<string>Billy Ohio.otf</string>
+		<string>SonderSlab-Black.otf</string>
+		<string>LobsterTwo-Italic.otf</string>
+		<string>TheBohemian.otf</string>
+		<string>PROXIMA_SOFT_SEMI_BOLD_0.OTF</string>
+		<string>Lavanderia_Delicate.otf</string>
+		<string>Rollfast-Rounded.ttf</string>
+		<string>LeagueGothic-Italic.otf</string>
+		<string>Lovelo Line Light.otf</string>
+		<string>BlackOpsOne-Regular.ttf</string>
+		<string>Playlist Script.otf</string>
+		<string>Ubuntu-MediumItalic.ttf</string>
+		<string>COLLEGES.ttf</string>
+		<string>GUERRILLA-Normal.ttf</string>
+		<string>GoldanaDropShadowSolo.otf</string>
+		<string>Sweet Carissa.otf</string>
+		<string>Microbrew-Soft-One.ttf</string>
+		<string>Xolonium-Bold.ttf</string>
+		<string>GoldanaDropShadow.otf</string>
+		<string>Square721 BT Bold.ttf</string>
+		<string>Kameron-Regular.ttf</string>
+		<string>LobsterTwo-BoldItalic.otf</string>
+		<string>Logothic.otf</string>
+		<string>Gatefold Demibold.otf</string>
+		<string>PressStart2P-Regular.ttf</string>
+		<string>Lavanderia_Regular.otf</string>
+		<string>Chivo-Black.ttf</string>
+		<string>GearedSlab-Bold.ttf</string>
+		<string>SonderSlab-BlackRough.otf</string>
+		<string>Old Scotch Modern.otf</string>
+		<string>MontserratSubrayada-Bold.ttf</string>
+		<string>Old Scotch.otf</string>
+		<string>Roboto Slab.ttf</string>
+		<string>GoldanaInline.otf</string>
+		<string>Geo-Oblique.ttf</string>
+		<string>Monoton-Regular.ttf</string>
+		<string>LuloCleanOutlineBold.otf</string>
+		<string>MontserratAlternates-Regular.ttf</string>
+		<string>Recia-MediumItalic.ttf</string>
+		<string>LuloCleanOne.otf</string>
+		<string>Lovelo Line Bold.otf</string>
+		<string>Graduate-Regular.ttf</string>
+		<string>Milda-Regular.otf</string>
+		<string>Colus-Regular.ttf</string>
+		<string>CormorantInfant-Bold.ttf</string>
+		<string>GoldanaShadow.otf</string>
+		<string>Futura Md BT Medium.ttf</string>
+		<string>Square721 BT Roman.ttf</string>
+		<string>Montserrat-Regular.ttf</string>
+		<string>Recia-Medium.ttf</string>
+		<string>August-Bold.ttf</string>
+		<string>Comfortaa-Regular.ttf</string>
+		<string>GiddyupStd.otf</string>
+		<string>Julietta-Messie.ttf</string>
+		<string>Coldiac Italic.otf</string>
+		<string>Times New Roman Bold.ttf</string>
+		<string>BOOKOS.TTF</string>
+		<string>Typnic Headline Slab Highlight.otf</string>
+		<string>18Yonder-Regular.otf</string>
+		<string>Bison-Regular.ttf</string>
+		<string>Quicksand-Light.otf</string>
+		<string>Bison-BoldItallic.ttf</string>
+		<string>Nexa Light.otf</string>
+		<string>Copperplate Gothic Bold.ttf</string>
+		<string>Gatefold Demibold Italic.otf</string>
+		<string>Coco-Regular.otf</string>
+		<string>Old Scotch Shadow.otf</string>
+		<string>Citrica-Regular.ttf</string>
+		<string>Justlyne.otf</string>
+		<string>CreteRound-Regular.ttf</string>
+		<string>BebasNeue-Light.ttf</string>
+		<string>Quicksand-Regular.otf</string>
+		<string>MontserratSubrayada-Regular.ttf</string>
+		<string>Bison-DemiBold.ttf</string>
+		<string>NovaRound.ttf</string>
+		<string>Intro Inline.otf</string>
+		<string>Bison-DemiBoldItallic.ttf</string>
+		<string>FasterOne-Regular.ttf</string>
+		<string>NovaSquare.ttf</string>
+		<string>ZefaniStencil-Regular.otf</string>
+		<string>Typnic Headline Slab Highlighted.otf</string>
+		<string>Plaster-Regular.ttf</string>
+		<string>7Bajern.otf</string>
+		<string>Recia-LightItalic.ttf</string>
+		<string>Chunk Five Print.otf</string>
+		<string>Square721 Cn BT Bold.ttf</string>
+		<string>GoldanaStripes.otf</string>
+		<string>Infister.otf</string>
+		<string>nevis.ttf</string>
+		<string>LuloCleanOneBold.otf</string>
+		<string>Ubuntu-Italic.ttf</string>
+		<string>GoldanaScriptShadow.otf</string>
+		<string>CaldasLife-Regular.otf</string>
+		<string>Nosifer-Regular.ttf</string>
+		<string>Fascinate-Regular.ttf</string>
+		<string>CormorantSC-SemiBold.ttf</string>
+		<string>MonophoneRegular.otf</string>
+		<string>Comfortaa-Bold.ttf</string>
+		<string>Microbrew-Soft-Five.otf</string>
+		<string>PlayfairDisplay-Regular.otf</string>
+		<string>Sweet Dessert.ttf</string>
+		<string>PlayfairDisplay-Italic.otf</string>
+		<string>Montana-Roughen.otf</string>
+		<string>Recia-Bold.ttf</string>
+		<string>SupermercadoOne-Regular.ttf</string>
+		<string>VarelaRound-Regular.ttf</string>
+		<string>Varela.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UIStatusBarHidden</key>
+	<false/>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleDefault</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

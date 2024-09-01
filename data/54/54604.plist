@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppLovinSdkKey</key>
+	<string>s44m7kzEnCfKHi_ZutIhIh3Fu7vJqxb6BG1xTaI2vPGbhTGXfpVRkXELk9eRPcJEbH9os4PgNC0zSr2PAiXL7X</string>
+	<key>BuildMachineOSBuild</key>
+	<string>22E261</string>
+	<key>CADisableMinimumFrameDuration</key>
+	<false/>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<false/>
+	<key>CFBundleAllowMixedLocalizations</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Genius Shooter D</string>
+	<key>CFBundleExecutable</key>
+	<string>GeniusShooterD</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon60x60</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>AppIcon</string>
+		</dict>
+	</dict>
+	<key>CFBundleIcons~ipad</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon60x60</string>
+				<string>AppIcon76x76</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>AppIcon</string>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.sagi.barrett</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>GeniusShooterD</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.3.1</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb550473549053228</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>203015728</string>
+	<key>DTAppStoreToolsBuild</key>
+	<string>14E221</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>20C52</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>DTPlatformVersion</key>
+	<string>16.2</string>
+	<key>DTSDKBuild</key>
+	<string>20C52</string>
+	<key>DTSDKName</key>
+	<string>iphoneos16.2</string>
+	<key>DTXcode</key>
+	<string>1420</string>
+	<key>DTXcodeBuild</key>
+	<string>14C18</string>
+	<key>DTXcodeBuildDistribution</key>
+	<string>14C18</string>
+	<key>FacebookAdvertiserIDCollectionEnabled</key>
+	<true/>
+	<key>FacebookAppID</key>
+	<string>550473549053228</string>
+	<key>FacebookAutoLogAppEventsEnabled</key>
+	<true/>
+	<key>FacebookClientToken</key>
+	<string>22f466046b94172a0729d02ff3c368b5488799344ee08b536270f9f9ea194f93</string>
+	<key>FacebookDisplayName</key>
+	<string>Genius Shooter D</string>
+	<key>GADApplicationIdentifier</key>
+	<string>ca-app-pub-5584827382104951~1091234941</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbapi</string>
+		<string>fbauth</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>11.0</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Your consent is required to access the media database</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Your consent is required to access Bluetooth</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Your consent is required to access the calendar</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Your consent is required to access the camera</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Your location is required for xyz benefits for you</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Your consent is required to access the microphone</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Your location is required for xyz benefits for you</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Your consent is required to access the microphone</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Your consent is required to access sports and fitness</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app requires access to the photo library.</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>Your consent is required to access reminders</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Can provide you with more personalized advertising services, to avoid ineffective information interference.</string>
+	<key>TDDisPresetProperties</key>
+	<array/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen-iPhone</string>
+	<key>UILaunchStoryboardName~ipad</key>
+	<string>LaunchScreen-iPad</string>
+	<key>UILaunchStoryboardName~iphone</key>
+	<string>LaunchScreen-iPhone</string>
+	<key>UILaunchStoryboardName~ipod</key>
+	<string>LaunchScreen-iPhone</string>
+	<key>UIPrerenderedIcon</key>
+	<false/>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+		<string>metal</string>
+		<string>gamekit</string>
+		<string>gamekit</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UIRequiresPersistentWiFi</key>
+	<false/>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleDefault</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>UnityCloudProjectID</key>
+	<string></string>
+	<key>UnityCrashSubmissionURL</key>
+	<string></string>
+	<key>Unity_LoadingActivityIndicatorStyle</key>
+	<integer>-1</integer>
+	<key>channel</key>
+	<string>irsgas</string>
+	<key>channelId</key>
+	<string>I1</string>
+</dict>
+</plist>

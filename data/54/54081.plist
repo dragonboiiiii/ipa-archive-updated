@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>22A380</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>AI Art Generator</string>
+	<key>CFBundleExecutable</key>
+	<string>AIArtGenerator2.0</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>AppIcon2</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon260x60</string>
+					<string>AppIcon276x76</string>
+				</array>
+				<key>CFBundleIconName</key>
+				<string>AppIcon2</string>
+			</dict>
+		</dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon60x60</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>AppIcon</string>
+		</dict>
+	</dict>
+	<key>CFBundleIcons~ipad</key>
+	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>AppIcon2</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon260x60</string>
+					<string>AppIcon276x76</string>
+				</array>
+				<key>CFBundleIconName</key>
+				<string>AppIcon2</string>
+			</dict>
+		</dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon60x60</string>
+				<string>AppIcon76x76</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>AppIcon</string>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.tapuniverse.aiartgenerator</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>AIArtGenerator2.0</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.0.2</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb649931270248653</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>2</string>
+	<key>DTAppStoreToolsBuild</key>
+	<string>14C17</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>20B71</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>DTPlatformVersion</key>
+	<string>16.1</string>
+	<key>DTSDKBuild</key>
+	<string>20B71</string>
+	<key>DTSDKName</key>
+	<string>iphoneos16.1</string>
+	<key>DTXcode</key>
+	<string>1410</string>
+	<key>DTXcodeBuild</key>
+	<string>14B47b</string>
+	<key>DTXcodeBuildDistribution</key>
+	<string>14B47b</string>
+	<key>FacebookAppID</key>
+	<string>649931270248653</string>
+	<key>FacebookClientToken</key>
+	<string>547fdacec479e438ccf8fabd5aa9e836</string>
+	<key>FacebookDisplayName</key>
+	<string>AI Art Generator</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>14.0</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This is required by OpenCV plugin</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>This allows the app to save generated images to your library</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>VCR_OSD_MONO_1.001.ttf</string>
+		<string>Gelion Black Italic.ttf</string>
+		<string>Gelion Black.ttf</string>
+		<string>Gelion Bold Italic.ttf</string>
+		<string>Gelion Bold.ttf</string>
+		<string>Gelion Light Italic.ttf</string>
+		<string>Gelion Light.ttf</string>
+		<string>Gelion Medium Italic.ttf</string>
+		<string>Gelion Medium.ttf</string>
+		<string>Gelion Regular Italic.ttf</string>
+		<string>Gelion Regular.ttf</string>
+		<string>Gelion SemiBold Italic.ttf</string>
+		<string>Gelion SemiBold.ttf</string>
+		<string>Gelion Thin Italic.ttf</string>
+		<string>Gelion Thin.ttf</string>
+		<string>RoslindaleText-Bold.ttf</string>
+	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>AIArtGenerator2_0.SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Home</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Home</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>

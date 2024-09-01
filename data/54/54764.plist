@@ -1,0 +1,1829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Application Keywords</key>
+	<array>
+		<string>edit photo</string>
+		<string>photo editor</string>
+		<string>image editor</string>
+		<string>photoshop</string>
+		<string>express</string>
+		<string>Photoshop Express</string>
+		<string>PS Express</string>
+		<string>psx</string>
+		<string>Adobe</string>
+		<string>Adobe photoshop</string>
+		<string>Beautify</string>
+		<string>collage</string>
+		<string>make collage</string>
+		<string>create collage</string>
+		<string>crop</string>
+		<string>crop photo</string>
+		<string>effects</string>
+		<string>bright</string>
+		<string>dim</string>
+		<string>modify</string>
+		<string>edit</string>
+		<string>Images</string>
+		<string>raw photo</string>
+		<string>raw</string>
+		<string>edit raw photo</string>
+		<string>straighten</string>
+		<string>straighten photo</string>
+		<string>rotate</string>
+		<string>rotate photo</string>
+		<string>flip</string>
+		<string>flip photo</string>
+		<string>exposure</string>
+		<string>shadows</string>
+		<string>contrast</string>
+		<string>clarity</string>
+		<string>vibrance</string>
+		<string>looks</string>
+		<string>adjustment</string>
+		<string>adjust photo</string>
+		<string>photo adjustment</string>
+		<string>filters</string>
+		<string>photo filters</string>
+		<string>image filters</string>
+		<string>creative</string>
+		<string>cloud</string>
+		<string>creative cloud</string>
+		<string>dropbox</string>
+		<string>google photos</string>
+		<string>facebook</string>
+		<string>facebook photos</string>
+		<string>sync</string>
+		<string>background</string>
+		<string>face</string>
+		<string>photos</string>
+		<string>camera</string>
+		<string>selfie</string>
+		<string>layout</string>
+		<string>moments</string>
+		<string>artistic</string>
+		<string>style</string>
+		<string>apply style</string>
+		<string>style transfer</string>
+		<string>noise</string>
+		<string>noise removal</string>
+		<string>denoise</string>
+		<string>reduce noise</string>
+		<string>remove noise</string>
+		<string>zoom</string>
+		<string>borders</string>
+		<string>pan and zoom</string>
+		<string>pan</string>
+		<string>art</string>
+		<string>picture</string>
+		<string>upload</string>
+		<string>upload photo</string>
+		<string>share</string>
+		<string>share photo</string>
+		<string>white balance</string>
+		<string>highlights</string>
+		<string>tint</string>
+		<string>frames</string>
+		<string>camera</string>
+		<string>replace</string>
+		<string>resize</string>
+		<string>resize photo</string>
+		<string>fb cover</string>
+		<string>profile picture</string>
+		<string>rotate</string>
+		<string>color</string>
+		<string>colour</string>
+		<string>corrections</string>
+		<string>sharpen</string>
+		<string>defog</string>
+		<string>dehaze</string>
+		<string>temperature</string>
+		<string>red eye</string>
+		<string>red eye removal</string>
+		<string>remove red eye</string>
+		<string>eye</string>
+		<string>spot heal</string>
+		<string>spot</string>
+		<string>snapshot</string>
+		<string>enhance</string>
+		<string>enhance photo</string>
+		<string>auto enhance</string>
+		<string>strip</string>
+		<string>circle</string>
+		<string>bevel</string>
+		<string>vignette</string>
+		<string>portrait</string>
+		<string>landscape</string>
+		<string>blemish</string>
+		<string>blemish removal</string>
+		<string>aspect ratio</string>
+		<string>pixels</string>
+		<string>histogram</string>
+		<string>graphics</string>
+		<string>resolution</string>
+		<string>smoothen</string>
+		<string>texture</string>
+		<string>gradient</string>
+		<string>view</string>
+		<string>edge</string>
+		<string>digital photography</string>
+		<string>tone</string>
+		<string>gamma</string>
+		<string>color balance</string>
+		<string>digital image</string>
+		<string>appearance</string>
+		<string>blur</string>
+		<string>focus</string>
+		<string>autofocus</string>
+		<string>photography</string>
+		<string>compression</string>
+		<string>import photo</string>
+		<string>export photo</string>
+		<string>fringing</string>
+		<string>parallax</string>
+		<string>capture</string>
+		<string>capture photo</string>
+		<string>saturation</string>
+		<string>thumbnail</string>
+		<string>collage maker</string>
+		<string>collages</string>
+		<string>collage making app</string>
+		<string>free photo editor</string>
+		<string>easy photo editor</string>
+		<string>quick photo editor</string>
+		<string>best editing app</string>
+		<string>raw file editor</string>
+		<string>ps</string>
+		<string>pics</string>
+		<string>fix</string>
+		<string>photo tool</string>
+		<string>fun</string>
+		<string>spot healing</string>
+		<string>fix red eye</string>
+		<string>3d</string>
+		<string>add border color</string>
+		<string>add caption to image</string>
+		<string>add color to borders</string>
+		<string>apply image watermark</string>
+		<string>apply watermark</string>
+		<string>aquatic</string>
+		<string>auto blacks</string>
+		<string>auto clarity</string>
+		<string>auto collage</string>
+		<string>auto contrast</string>
+		<string>Auto Correct</string>
+		<string>auto exposure</string>
+		<string>auto highlights</string>
+		<string>auto shadows</string>
+		<string>auto temperature</string>
+		<string>auto tint</string>
+		<string>auto vibrance</string>
+		<string>auto whites</string>
+		<string>Automatic Collage</string>
+		<string>autumn</string>
+		<string>black and white</string>
+		<string>bleached matte</string>
+		<string>blue</string>
+		<string>border colors</string>
+		<string>brew</string>
+		<string>brown</string>
+		<string>bueno</string>
+		<string>carmine</string>
+		<string>cc library</string>
+		<string>cinematic</string>
+		<string>classic</string>
+		<string>colorful</string>
+		<string>contrastpunch</string>
+		<string>copy</string>
+		<string>create stunning collages</string>
+		<string>dappled</string>
+		<string>darkwood</string>
+		<string>details</string>
+		<string>dream</string>
+		<string>duo tone</string>
+		<string>edge stroke</string>
+		<string>email</string>
+		<string>etsy cover</string>
+		<string>Express editor</string>
+		<string>film</string>
+		<string>film emulsion</string>
+		<string>flickr</string>
+		<string>gleam</string>
+		<string>glow</string>
+		<string>green</string>
+		<string>greenfilter</string>
+		<string>grungify</string>
+		<string>halftone</string>
+		<string>haze</string>
+		<string>haze removal</string>
+		<string>hicontrast</string>
+		<string>horizontal</string>
+		<string>horizontal strip</string>
+		<string>image resize</string>
+		<string>infrared</string>
+		<string>instagram</string>
+		<string>koi</string>
+		<string>layers</string>
+		<string>light</string>
+		<string>lightroom</string>
+		<string>lightroom cc</string>
+		<string>linkedin cover</string>
+		<string>luminance</string>
+		<string>magenta</string>
+		<string>matte</string>
+		<string>medium</string>
+		<string>memory</string>
+		<string>message</string>
+		<string>messenger</string>
+		<string>misty</string>
+		<string>modern</string>
+		<string>modern matte</string>
+		<string>nature</string>
+		<string>noise</string>
+		<string>nostalgic</string>
+		<string>old timey</string>
+		<string>orange</string>
+		<string>pastel</string>
+		<string>photoshop express editor</string>
+		<string>picassa</string>
+		<string>pinhole</string>
+		<string>print</string>
+		<string>purple</string>
+		<string>red</string>
+		<string>red eye auto correct</string>
+		<string>red eye auto detect</string>
+		<string>red eye correct</string>
+		<string>red eye detect</string>
+		<string>reduce color noise</string>
+		<string>reduce luminance</string>
+		<string>redwood</string>
+		<string>replace</string>
+		<string>resize image</string>
+		<string>rgb</string>
+		<string>rough edge</string>
+		<string>selenium</string>
+		<string>sepia</string>
+		<string>silvered</string>
+		<string>sina weibo</string>
+		<string>smart editor</string>
+		<string>smart fix</string>
+		<string>soft</string>
+		<string>soft edge</string>
+		<string>splash</string>
+		<string>spring</string>
+		<string>stylish collage maker</string>
+		<string>summer</string>
+		<string>superpunch</string>
+		<string>theblues</string>
+		<string>thin</string>
+		<string>tiff</string>
+		<string>tiff editor</string>
+		<string>twilight</string>
+		<string>twitter</string>
+		<string>twitter header</string>
+		<string>unconstrained</string>
+		<string>unique collage maker</string>
+		<string>vertical</string>
+		<string>vertical strip</string>
+		<string>verve</string>
+		<string>Vibrant</string>
+		<string>vignette black</string>
+		<string>vintage</string>
+		<string>vital</string>
+		<string>vivid</string>
+		<string>warmvintage</string>
+		<string>watermark</string>
+		<string>whatsapp</string>
+		<string>whitemist</string>
+		<string>whites</string>
+		<string>Whites and Black Adjustments</string>
+		<string>winter</string>
+		<string>yellow</string>
+		<string>Snapseed</string>
+		<string>Snap</string>
+		<string>Snapchat</string>
+		<string>Youtube</string>
+		<string>Instagram</string>
+		<string>Line</string>
+		<string>Piccollage</string>
+		<string>Picsart</string>
+		<string>VSCO</string>
+		<string>Filterra</string>
+		<string>Collageble</string>
+		<string>Shutterfly</string>
+		<string>Mextures</string>
+		<string>Photogrid</string>
+		<string>PhotoLab</string>
+		<string>Splice</string>
+		<string>Video</string>
+		<string>Makeup</string>
+		<string>Youcam</string>
+		<string>Camera+</string>
+		<string>Filmmaker</string>
+		<string>Facetune</string>
+		<string>Kodak</string>
+		<string>Pop</string>
+		<string>Colorpop</string>
+		<string>Pix</string>
+		<string>Boomrang</string>
+		<string>Hyperlapse</string>
+		<string>Picstich</string>
+		<string>Giphy</string>
+		<string>Enlight</string>
+		<string>LightX</string>
+		<string>Afterlight</string>
+		<string>Fabfocus</string>
+		<string>WordSwag</string>
+		<string>Glitche</string>
+		<string>Procamera</string>
+		<string>Colorsplash</string>
+		<string>PicTapgo</string>
+		<string>text watermark</string>
+		<string>watermark text</string>
+		<string>apply text watermark</string>
+		<string>apply watermark text</string>
+		<string>watermark image</string>
+		<string>print photo</string>
+		<string>print image</string>
+		<string>adjust whites</string>
+		<string>adjust blacks</string>
+		<string>whites adjustment</string>
+		<string>blacks adjustments</string>
+		<string>change border color</string>
+		<string>pet</string>
+		<string>pic</string>
+		<string>preset</string>
+		<string>editor</string>
+		<string>maker</string>
+		<string>create</string>
+		<string>grid</string>
+		<string>make</string>
+		<string>heal</string>
+		<string>reduce</string>
+		<string>shop</string>
+		<string>mix</string>
+		<string>psd</string>
+		<string>fotoshop</string>
+		<string>foto</string>
+		<string>image</string>
+		<string>pdf</string>
+		<string>pro</string>
+		<string>creative</string>
+		<string>edit</string>
+		<string>look</string>
+		<string>studio</string>
+		<string>HEIF</string>
+	</array>
+	<key>Application Keywords New</key>
+	<array>
+		<string>Youtube</string>
+		<string>Pinterest</string>
+		<string>Kindle</string>
+		<string>google</string>
+		<string>video editor</string>
+		<string>inshot</string>
+		<string>pic collage</string>
+		<string>editing apps</string>
+		<string>drawing apps</string>
+		<string>text</string>
+		<string>prequel</string>
+		<string>video-maker</string>
+		<string>widget</string>
+		<string>photo collage</string>
+		<string>phonto</string>
+		<string>gif</string>
+		<string>eraser</string>
+		<string>picture editor</string>
+		<string>photomath</string>
+		<string>pixel art</string>
+		<string>photo</string>
+		<string>background eraser</string>
+		<string>meme maker</string>
+		<string>photo grid</string>
+		<string>gif maker</string>
+		<string>sticker maker</string>
+		<string>font</string>
+		<string>drawing</string>
+		<string>pics art</string>
+		<string>retouch</string>
+		<string>draw</string>
+		<string>social media</string>
+		<string>paint</string>
+		<string>ps app</string>
+		<string>photoroom</string>
+		<string>blur background</string>
+		<string>merge</string>
+		<string>aesthetic</string>
+		<string>photo widget</string>
+		<string>free</string>
+		<string>wallpaper</string>
+		<string>stickers</string>
+		<string>filters for pictures</string>
+		<string>app</string>
+		<string>memes</string>
+		<string>photoshop fix</string>
+		<string>apps</string>
+		<string>blur photo</string>
+		<string>picture collage</string>
+		<string>story</string>
+		<string>split pic</string>
+		<string>edit photos</string>
+		<string>design</string>
+		<string>photo booth</string>
+		<string>pixel</string>
+		<string>picart</string>
+		<string>iphone</string>
+		<string>meme</string>
+		<string>polaroid</string>
+		<string>sketch</string>
+		<string>icon changer</string>
+		<string>lr</string>
+		<string>pic collage maker</string>
+		<string>editing</string>
+		<string>stories</string>
+		<string>vintage camera</string>
+		<string>focos</string>
+		<string>lens</string>
+		<string>sticker</string>
+		<string>simple</string>
+		<string>photo edit</string>
+		<string>face editor</string>
+		<string>photoshop mix</string>
+		<string>photo collage free</string>
+		<string>wallpaper maker</string>
+		<string>photo shop</string>
+		<string>graphic design</string>
+		<string>free photo editing apps</string>
+		<string>social</string>
+		<string>black</string>
+		<string>blender</string>
+		<string>pixart</string>
+		<string>collage maker free</string>
+		<string>edits</string>
+		<string>one</string>
+		<string>point</string>
+		<string>pic art</string>
+		<string>cartoon photo editor</string>
+		<string>texting</string>
+		<string>pic editor</string>
+		<string>filter</string>
+		<string>presets</string>
+		<string>gallery</string>
+		<string>body</string>
+		<string>no crop</string>
+		<string>background editor</string>
+		<string>photo editing</string>
+		<string>cartoon</string>
+		<string>picture collage free</string>
+		<string>photo retouch</string>
+		<string>videos</string>
+		<string>cut</string>
+		<string>crop photos</string>
+		<string>editor de fotos</string>
+		<string>hair color</string>
+		<string>ps express</string>
+		<string>fotos</string>
+		<string>open</string>
+		<string>photo animator</string>
+		<string>photo lab</string>
+		<string>icon</string>
+		<string>photo-lab</string>
+		<string>blemish remover</string>
+		<string>camera filters</string>
+		<string>pattern</string>
+		<string>art apps</string>
+		<string>icon themer</string>
+		<string>iphoto</string>
+		<string>free collage apps</string>
+		<string>smart</string>
+		<string>beauty</string>
+		<string>photo enhancer</string>
+		<string>adobe photoshop fix</string>
+		<string>editing app</string>
+		<string>pixelmator</string>
+		<string>text stickers</string>
+		<string>photoshop free</string>
+		<string>unblur photo</string>
+		<string>eyes</string>
+		<string>picture editor free</string>
+		<string>pictures</string>
+		<string>affinity</string>
+		<string>piscart</string>
+		<string>photo circle</string>
+		<string>digital art</string>
+		<string>themes</string>
+		<string>app icon changer</string>
+		<string>text editor</string>
+		<string>photo app</string>
+		<string>retro</string>
+		<string>pic collage free</string>
+		<string>enhance photo quality</string>
+		<string>photo crop editor</string>
+		<string>cam</string>
+		<string>camara</string>
+		<string>room</string>
+		<string>auto</string>
+		<string>photo wonder</string>
+		<string>pix art</string>
+		<string>free editing apps</string>
+		<string>photo editor collage</string>
+		<string>frames for photos</string>
+		<string>photo shop app free</string>
+		<string>text on photo</string>
+		<string>background remover</string>
+		<string>mood board</string>
+		<string>theme</string>
+		<string>control</string>
+		<string>power</string>
+		<string>affinity photo</string>
+		<string>blur video</string>
+		<string>face filters</string>
+		<string>stitch</string>
+		<string>photo filters free</string>
+		<string>camera app</string>
+		<string>outline</string>
+		<string>face changer</string>
+		<string>photoshop for ipad</string>
+		<string>photo resize</string>
+		<string>live collage</string>
+		<string>editar fotos</string>
+		<string>photo timer</string>
+		<string>selfie editor</string>
+		<string>professional photo editor</string>
+		<string>warp</string>
+		<string>paste</string>
+		<string>tools</string>
+		<string>pro camera</string>
+		<string>adobe photoshop mix</string>
+		<string>combine</string>
+		<string>split</string>
+		<string>overlay</string>
+		<string>photo layers</string>
+		<string>photo collage maker</string>
+		<string>adobe digital editions</string>
+		<string>photo background changer</string>
+		<string>plus</string>
+		<string>touch</string>
+		<string>png maker</string>
+		<string>vintage photo effects</string>
+		<string>photo editor text</string>
+		<string>photoshop pictures</string>
+		<string>photo transfer app</string>
+		<string>cover</string>
+		<string>combine photos</string>
+		<string>png</string>
+		<string>meme creator</string>
+		<string>photo video maker</string>
+		<string>photo recovery</string>
+		<string>photo frames</string>
+		<string>add</string>
+		<string>mood</string>
+		<string>cc</string>
+		<string>frame</string>
+		<string>homescreen layout</string>
+		<string>final cut</string>
+		<string>photo album</string>
+		<string>insta story</string>
+		<string>sweet selfie</string>
+		<string>photo crop</string>
+		<string>camera plus</string>
+		<string>photo booth for iphone</string>
+		<string>graphic design free</string>
+		<string>photofox</string>
+		<string>hd</string>
+		<string>media</string>
+		<string>contour</string>
+		<string>change hair color</string>
+		<string>photo editing apps</string>
+		<string>white border</string>
+		<string>photo widget simple</string>
+		<string>elements</string>
+		<string>photo split</string>
+		<string>picture edit</string>
+		<string>filters for pictures free</string>
+		<string>photo blender</string>
+		<string>photo stickers</string>
+		<string>foto collage</string>
+		<string>pic collage maker free</string>
+		<string>designer</string>
+		<string>vcso</string>
+		<string>remove</string>
+		<string>graffiti</string>
+		<string>photo filter</string>
+		<string>easy</string>
+		<string>filter camera</string>
+		<string>photo editing app free</string>
+		<string>unblur</string>
+		<string>aesthetic photo editor</string>
+		<string>scrapbook</string>
+		<string>photo layout</string>
+		<string>photo apps</string>
+		<string>presentation</string>
+		<string>retouch photos</string>
+		<string>free photoshop app</string>
+		<string>quickshot</string>
+		<string>photo blurr</string>
+		<string>cut out photos</string>
+		<string>app editor</string>
+		<string>photo blur</string>
+		<string>collageable</string>
+		<string>removal</string>
+		<string>beauty editor</string>
+		<string>photo cut out</string>
+		<string>photo editer</string>
+		<string>stiker</string>
+		<string>photo merge</string>
+		<string>filter app</string>
+		<string>sweet</string>
+		<string>portrait editor</string>
+		<string>photoshop background</string>
+		<string>photo background editor</string>
+		<string>photo size editor</string>
+		<string>photo remover</string>
+		<string>resize for instagram</string>
+		<string>board</string>
+		<string>white</string>
+		<string>icon maker</string>
+		<string>border</string>
+		<string>customize</string>
+		<string>picture filters free</string>
+		<string>transform</string>
+		<string>photo video maker free</string>
+		<string>photo art</string>
+		<string>photo fix</string>
+		<string>editing photos</string>
+		<string>collage app</string>
+		<string>add text</string>
+		<string>flare</string>
+		<string>cut out</string>
+		<string>photo director</string>
+		<string>photoshop body</string>
+		<string>beauty camera</string>
+		<string>photo to sketch</string>
+		<string>custom</string>
+		<string>adobe editor</string>
+		<string>photo frame</string>
+		<string>photo &amp; text</string>
+		<string>picture apps</string>
+		<string>edit photos free</string>
+		<string>instagram editor</string>
+		<string>cameras</string>
+		<string>open camera</string>
+		<string>photo organizer</string>
+		<string>photo to cartoon</string>
+		<string>stickers for photos</string>
+		<string>montage</string>
+		<string>photo maker</string>
+		<string>customize iphone</string>
+		<string>photo editor stickers</string>
+		<string>blend</string>
+		<string>picture editing apps</string>
+		<string>camra</string>
+		<string>photo text</string>
+		<string>generator</string>
+		<string>photo grid free</string>
+		<string>watermark maker</string>
+		<string>photo-text</string>
+		<string>crop pictures</string>
+		<string>zoom camera</string>
+		<string>picture filters</string>
+		<string>photolayers</string>
+		<string>size</string>
+		<string>photo combiner</string>
+		<string>pic edit</string>
+		<string>layer photos</string>
+		<string>photoshop editor</string>
+		<string>edit pictures</string>
+		<string>graphic</string>
+		<string>collage free</string>
+		<string>lens distortions</string>
+		<string>creator</string>
+		<string>free picture collages</string>
+		<string>picasa</string>
+		<string>photoshop app</string>
+		<string>photography editing</string>
+		<string>photoshop camera</string>
+		<string>photo gallery</string>
+		<string>album</string>
+		<string>shape</string>
+		<string>instacollage</string>
+		<string>photo editing app</string>
+		<string>photo presets</string>
+		<string>adobe cloud</string>
+		<string>photo drawing</string>
+		<string>remover</string>
+		<string>best photo editing app</string>
+		<string>cutout</string>
+		<string>pic jointer</string>
+		<string>effects for pictures</string>
+		<string>photo &amp; video</string>
+		<string>aesthetic filters</string>
+		<string>overlay photo</string>
+		<string>photo video</string>
+		<string>camera apps</string>
+		<string>design app</string>
+		<string>free photo apps</string>
+		<string>fliters</string>
+		<string>dslr camera</string>
+		<string>picture editing</string>
+		<string>photo frame free</string>
+		<string>photo filters and effects</string>
+		<string>text designer</string>
+		<string>camara profesional</string>
+		<string>phot</string>
+		<string>digital</string>
+		<string>instagram resize</string>
+		<string>photo touch up</string>
+		<string>free photo filter</string>
+		<string>photo editor body</string>
+		<string>hdr</string>
+		<string>manual camera</string>
+		<string>photo studio</string>
+		<string>stitch photos</string>
+		<string>picture app</string>
+		<string>photos app</string>
+		<string>photos google</string>
+		<string>effect</string>
+		<string>color editor</string>
+		<string>foto-editor</string>
+		<string>fix blurry photo</string>
+		<string>photo borders</string>
+		<string>instapic</string>
+		<string>backround</string>
+		<string>vintage filters</string>
+		<string>editer</string>
+		<string>canera</string>
+		<string>photo background</string>
+		<string>picture collage maker free</string>
+		<string>photo editor blur</string>
+		<string>jpg</string>
+		<string>fix pictures</string>
+		<string>photo overlays</string>
+		<string>retro filter</string>
+		<string>photo remove object</string>
+		<string>foto editor</string>
+		<string>photo moments</string>
+		<string>gratis</string>
+		<string>foto shop</string>
+		<string>photoshop elements</string>
+		<string>memes maker</string>
+		<string>polaroid filter</string>
+		<string>portrait camera</string>
+		<string>photo restoration</string>
+		<string>photo sharing</string>
+		<string>photo flipper</string>
+		<string>photo fox</string>
+		<string>photo blur background editor</string>
+		<string>edit pictures free</string>
+		<string>photo editor pro</string>
+		<string>photo mix</string>
+		<string>unique</string>
+		<string>raw camera</string>
+		<string>add photo on photo</string>
+		<string>picture cut out</string>
+		<string>brush</string>
+		<string>picture blur</string>
+		<string>adobe photo</string>
+		<string>photo measure</string>
+		<string>point blur</string>
+		<string>cortex</string>
+		<string>photo album maker</string>
+		<string>free photo editing</string>
+		<string>photo grid instagram</string>
+		<string>best free photo editor</string>
+		<string>creativity</string>
+		<string>gird</string>
+		<string>colage</string>
+		<string>pic editor free</string>
+		<string>stiker maker</string>
+		<string>photoshop sketch</string>
+		<string>pic college</string>
+		<string>quality</string>
+		<string>vosco</string>
+		<string>cut out background</string>
+		<string>photoeditor</string>
+		<string>photo effects &amp; filters for iphone</string>
+		<string>brushes</string>
+		<string>blurry</string>
+		<string>color photo editor</string>
+		<string>tool</string>
+		<string>picture layout</string>
+		<string>picture effects</string>
+		<string>editar</string>
+		<string>professional camera</string>
+		<string>phtoshop</string>
+		<string>photo resolution</string>
+		<string>photoshop text</string>
+		<string>wallpaper for iphone</string>
+		<string>blurr</string>
+		<string>photo shop pictures</string>
+		<string>art editor</string>
+		<string>final</string>
+		<string>photo layer</string>
+		<string>hsl</string>
+		<string>photoshop cc</string>
+		<string>perspective</string>
+		<string>photo edit app</string>
+		<string>photo video editor</string>
+		<string>photo shop express</string>
+		<string>photo makeup</string>
+		<string>photo fliters</string>
+		<string>select</string>
+		<string>lense</string>
+		<string>manual</string>
+		<string>photo montage</string>
+		<string>retouch app</string>
+		<string>photo enhancer free</string>
+		<string>meme editor</string>
+		<string>phote editor</string>
+		<string>psc</string>
+		<string>photo edits</string>
+		<string>complete</string>
+		<string>photocollage</string>
+		<string>photo express</string>
+		<string>line art</string>
+		<string>camera pro</string>
+		<string>photo gird</string>
+		<string>resize photos</string>
+		<string>merge pictures</string>
+		<string>photo paint</string>
+		<string>picture filter</string>
+		<string>dslr</string>
+		<string>photo effects filters for iphone</string>
+		<string>pop art</string>
+		<string>preset filters</string>
+		<string>layouts</string>
+		<string>photo filters and effects free</string>
+		<string>photo design</string>
+		<string>hd camera</string>
+		<string>bw</string>
+		<string>photoshop draw</string>
+		<string>unblur pictures</string>
+		<string>beautiful</string>
+		<string>photographer</string>
+		<string>walmart photo kiosk</string>
+		<string>with</string>
+		<string>photo grif</string>
+		<string>text sticker</string>
+		<string>photshop</string>
+		<string>face retouch</string>
+		<string>photo esitor</string>
+		<string>photo quilt</string>
+		<string>photo layout free</string>
+		<string>sharing</string>
+		<string>zoom in camera</string>
+		<string>photoshop face</string>
+		<string>photo quality</string>
+		<string>photo editors</string>
+		<string>photo creator</string>
+		<string>photo date stamp</string>
+		<string>photo reshaping</string>
+		<string>zoom out photo</string>
+		<string>healing</string>
+		<string>photo blur effect editor</string>
+		<string>photo and video</string>
+		<string>photo print free</string>
+		<string>photo editor backround</string>
+		<string>vintage photo editor</string>
+		<string>special</string>
+		<string>picture overlay</string>
+		<string>photo gride</string>
+		<string>photo collages</string>
+		<string>photo overlay</string>
+		<string>pic joiner free</string>
+		<string>photo object remover</string>
+		<string>photoshop lightroom</string>
+		<string>sticker creator</string>
+		<string>photo frame photo editor</string>
+		<string>raw power</string>
+		<string>director</string>
+		<string>photo outline</string>
+		<string>photo text edit</string>
+		<string>photo collage creator</string>
+		<string>blur image</string>
+		<string>bokeh</string>
+		<string>aperture</string>
+		<string>photo shop app</string>
+		<string>photo and video collage</string>
+		<string>photo warp</string>
+		<string>changer</string>
+		<string>all-in-one</string>
+		<string>pic colage</string>
+		<string>art pictures</string>
+		<string>creation</string>
+		<string>advanced</string>
+		<string>photo inhancer</string>
+		<string>deblur</string>
+		<string>drawer</string>
+		<string>photoedit</string>
+		<string>object</string>
+		<string>camera video</string>
+		<string>crop image</string>
+		<string>image editing</string>
+		<string>vintage filter</string>
+		<string>art filter</string>
+		<string>photoshop apps</string>
+		<string>photo journal</string>
+		<string>photo white background</string>
+		<string>photo brightener</string>
+		<string>photo mark up</string>
+		<string>photo joiner</string>
+		<string>layer</string>
+		<string>visual</string>
+		<string>photo editor photoshop free</string>
+		<string>phoyo editor</string>
+		<string>multiple</string>
+		<string>combine pictures</string>
+		<string>photo pop</string>
+		<string>fotocollage</string>
+		<string>photo sticker</string>
+		<string>photo drawer &amp; picture editor</string>
+		<string>custom background</string>
+		<string>photoshop crop</string>
+		<string>lens flare</string>
+		<string>photo colage</string>
+		<string>phote</string>
+		<string>fhoto</string>
+		<string>editors</string>
+		<string>retouch free</string>
+		<string>hdr camera</string>
+		<string>overlays</string>
+		<string>analog</string>
+		<string>instagram filter</string>
+		<string>pocture editor</string>
+		<string>photo lab pro</string>
+		<string>insta filter</string>
+		<string>photo editir</string>
+		<string>photo effect</string>
+		<string>photo &amp; video collage maker</string>
+		<string>analog film</string>
+		<string>photo grid editor</string>
+		<string>create sticker</string>
+		<string>blurry photo</string>
+		<string>photoshop touch</string>
+		<string>modes</string>
+		<string>photoshop cut</string>
+		<string>photo overlap</string>
+		<string>repeater</string>
+		<string>photo graphics</string>
+		<string>pic joiner</string>
+		<string>picture joiner</string>
+		<string>fix photos</string>
+		<string>photo on photo</string>
+		<string>lenses</string>
+		<string>photo lab free</string>
+		<string>icon themes</string>
+		<string>pic crop</string>
+		<string>phoyo</string>
+		<string>photograph</string>
+		<string>camera photo editor</string>
+		<string>stitch pics</string>
+		<string>picture edits</string>
+		<string>meme maker app</string>
+		<string>photo into drawing</string>
+		<string>styles</string>
+		<string>adobe express</string>
+		<string>fotoeditor</string>
+		<string>special effects for pictures</string>
+		<string>icons for iphone</string>
+		<string>auto cut out</string>
+		<string>image collage</string>
+		<string>fotoshop fix</string>
+		<string>color temperature</string>
+		<string>phototshop</string>
+		<string>foto edit</string>
+		<string>overlap</string>
+		<string>distort</string>
+		<string>remove blemish</string>
+		<string>image overlay</string>
+		<string>editing photo</string>
+		<string>photo distort</string>
+		<string>photo layering</string>
+		<string>phito</string>
+		<string>decorator</string>
+		<string>adobe camera</string>
+		<string>selfies</string>
+		<string>textures</string>
+		<string>photoshop cut and paste</string>
+		<string>raw photo editor</string>
+		<string>phot editing</string>
+		<string>replace background</string>
+		<string>edit raw photos</string>
+		<string>make story</string>
+		<string>add text to photo</string>
+		<string>combine images</string>
+		<string>red eyes</string>
+		<string>photo editor for free</string>
+		<string>adobe photoshop camera</string>
+		<string>photocrop</string>
+		<string>customize app icon</string>
+		<string>light leaks</string>
+		<string>photoshop cs6</string>
+		<string>custom text</string>
+		<string>photo decorator</string>
+		<string>enhance photos</string>
+		<string>photo widgetsmith</string>
+		<string>photo grid pic collage editor</string>
+		<string>color effects photo editor</string>
+		<string>resize pictures</string>
+		<string>blending</string>
+		<string>picture layer</string>
+		<string>editir</string>
+		<string>photo into cartoon</string>
+		<string>photo heal</string>
+		<string>photoshop editor free</string>
+		<string>adope photoshop</string>
+		<string>depth</string>
+		<string>photoshop for iphone</string>
+		<string>photo editor &amp; video</string>
+		<string>fix photo</string>
+		<string>text styles</string>
+		<string>professional</string>
+		<string>photography apps</string>
+		<string>picture editor effects</string>
+		<string>auto fix</string>
+		<string>adobe ps</string>
+		<string>foro</string>
+		<string>custom sticker</string>
+		<string>editing tool</string>
+		<string>scenery</string>
+		<string>best selfie</string>
+		<string>photo history</string>
+		<string>photo widget free</string>
+		<string>pet eye</string>
+		<string>visualize</string>
+		<string>customize pictures</string>
+		<string>image edit</string>
+		<string>photo glitch</string>
+		<string>stitch stickers</string>
+		<string>image quality</string>
+		<string>photoshop pro</string>
+		<string>picture merge</string>
+		<string>focus camera</string>
+		<string>sketh</string>
+		<string>foto-app</string>
+		<string>photo insert</string>
+		<string>photo pixel resizer</string>
+		<string>art filters</string>
+		<string>photo enhance</string>
+		<string>foto app</string>
+		<string>iphone photo</string>
+		<string>composite</string>
+		<string>custom border</string>
+		<string>personalized</string>
+		<string>all in one photo editor</string>
+		<string>adobe photoshop cs6</string>
+		<string>adobe ps express</string>
+		<string>auto cutout</string>
+		<string>blend image</string>
+		<string>creative collage</string>
+		<string>customize collages</string>
+		<string>photo image editor</string>
+		<string>customize memes</string>
+		<string>photo editor with layers</string>
+		<string>photos healing</string>
+		<string>selective editing</string>
+		<string>fotos editor</string>
+		<string>advanced healing</string>
+		<string>custom looks</string>
+		<string>fotoapp</string>
+		<string>fotoshop app</string>
+		<string>distortions</string>
+		<string>edit blemish</string>
+		<string>image healing</string>
+		<string>perspective correction</string>
+		<string>photo joiner free app</string>
+		<string>photo social</string>
+		<string>blending looks</string>
+		<string>collage creator</string>
+		<string>custom blending</string>
+		<string>cut out collage</string>
+		<string>digital photo</string>
+		<string>digital photo editor</string>
+		<string>editions</string>
+		<string>ed..tor</string>
+		<string>esitor</string>
+		<string>foto colage</string>
+		<string>fotoshop picture editor</string>
+		<string>gradients</string>
+		<string>hair retouch</string>
+		<string>make photo collage</string>
+		<string>pocture</string>
+		<string>reshaping</string>
+		<string>retouch selfie</string>
+		<string>pic collage maker and editor</string>
+		<string>retouch selfies</string>
+		<string>smart cutout</string>
+		<string>unblurr</string>
+		<string>aesthetic effects</string>
+		<string>artistic photos</string>
+		<string>capture effect</string>
+		<string>cortex camera</string>
+		<string>custom layouts</string>
+		<string>customize stickers</string>
+		<string>digital photo studio</string>
+		<string>powerful</string>
+		<string>faceart</string>
+		<string>edit selfies</string>
+		<string>enhancer</string>
+		<string>filterloop</string>
+		<string>foto filter</string>
+		<string>gradient background</string>
+		<string>layer pictures</string>
+		<string>layering</string>
+		<string>make art photos</string>
+		<string>photo face editor</string>
+		<string>photoshop filter</string>
+		<string>photoshop ipad</string>
+		<string>pop color</string>
+		<string>photography app</string>
+		<string>picture studio</string>
+		<string>profesional</string>
+		<string>professional photo editor app</string>
+		<string>raw editing</string>
+		<string>selfie photo</string>
+		<string>shape layout</string>
+		<string>select edit</string>
+		<string>select editing</string>
+		<string>split tone</string>
+		<string>stylize</string>
+		<string>transform tool</string>
+		<string>blemishes</string>
+		<string>combiner</string>
+		<string>correction</string>
+		<string>custom theme</string>
+		<string>edit..r</string>
+		<string>instacollage free</string>
+		<string>iphoto app</string>
+		<string>healing pic</string>
+		<string>intelligent edits</string>
+		<string>joiner</string>
+		<string>merge photo</string>
+		<string>my looks</string>
+		<string>my themes</string>
+		<string>photo divider</string>
+		<string>photo healing</string>
+		<string>photo into video</string>
+		<string>photo shop apps</string>
+		<string>aesthetic photos</string>
+		<string>all-in-one photo editor</string>
+		<string>collage effect</string>
+		<string>collage foto editor</string>
+		<string>collage theme</string>
+		<string>complete photo editor</string>
+		<string>create photo collage</string>
+		<string>custom frame</string>
+		<string>custom photo editor</string>
+		<string>customize photos</string>
+		<string>digital editing</string>
+		<string>fhoto editor</string>
+		<string>fix picture</string>
+		<string>fotoshop &amp; picture editor</string>
+		<string>ph..to</string>
+		<string>photo edit..r</string>
+		<string>ph..to editor</string>
+		<string>pic blender</string>
+		<string>retouching</string>
+		<string>scrapbook collage</string>
+		<string>smart cut</string>
+		<string>unblur photos</string>
+		<string>add filter</string>
+		<string>add sticker</string>
+		<string>artsy filters</string>
+		<string>art photos</string>
+		<string>artistic pictures</string>
+		<string>selective</string>
+		<string>capture filter</string>
+		<string>create custom sticker</string>
+		<string>create personalized stickers</string>
+		<string>custom watermark</string>
+		<string>smart capture</string>
+		<string>digital studio</string>
+		<string>filters lenses</string>
+		<string>free photoshop apps</string>
+		<string>foto-filter</string>
+		<string>fotofilter</string>
+		<string>make artsy photos</string>
+		<string>make sticker</string>
+		<string>photo effects studio</string>
+		<string>photoshop collage</string>
+		<string>photoshop sketh</string>
+		<string>photography camera</string>
+		<string>pic studio</string>
+		<string>trendy photos</string>
+		<string>selfie editing</string>
+		<string>vsco filter</string>
+		<string>selfie art</string>
+		<string>blend photo</string>
+		<string>brightener</string>
+		<string>collage foto</string>
+		<string>collage maker pic grid</string>
+		<string>collage maker pro</string>
+		<string>Competitor</string>
+		<string>Graphic design/Drawing/Painting/Art</string>
+		<string>Other</string>
+		<string>Memes</string>
+		<string>Text on photos</string>
+		<string>Brand</string>
+		<string>Texture/Overlay</string>
+		<string>Pro Photo editor</string>
+		<string>Storage</string>
+		<string>Ps Mix</string>
+		<string>Ps Fix</string>
+		<string>photo editor'</string>
+		<string>video-editor</string>
+		<string>video editor''</string>
+		<string>video editor ..</string>
+		<string>editing apps for pictures</string>
+		<string>photopea</string>
+		<string>photo.shop</string>
+		<string>insta</string>
+		<string>clips</string>
+		<string>reverse image search</string>
+		<string>pixlr</string>
+		<string>psn</string>
+		<string>image size</string>
+		<string>ppsspp</string>
+		<string>premiere rush</string>
+		<string>clear app</string>
+		<string>adobe premiere</string>
+		<string>adobe draw</string>
+		<string>nomo cam</string>
+		<string>image converter</string>
+		<string>darkroom</string>
+		<string>aplicacion para editar fotos</string>
+		<string>fusion 360</string>
+		<string>you doodle</string>
+		<string>500px</string>
+		<string>fotorus</string>
+		<string>negative photo</string>
+		<string>color changer</string>
+		<string>free picture editing apps</string>
+		<string>instagram update</string>
+		<string>squaready</string>
+		<string>adobe photoshop express</string>
+		<string>ru</string>
+		<string>cuts</string>
+		<string>tiktok</string>
+		<string>'tiktok'</string>
+		<string>capcut</string>
+		<string>canva</string>
+		<string>facebook messenger app</string>
+		<string>hay day</string>
+		<string>ibis paint x</string>
+		<string>photo roulette</string>
+		<string>pintrest</string>
+		<string>plenty of fish</string>
+		<string>vn</string>
+		<string>alight motion</string>
+		<string>phone</string>
+		<string>tempo</string>
+		<string>whats app</string>
+		<string>whats app+</string>
+		<string>'whats app'</string>
+		<string>fonts for iphones</string>
+		<string>spark</string>
+		<string>p</string>
+		<string>p+</string>
+		<string>canon</string>
+		<string>pi</string>
+		<string>dispo</string>
+		<string>dubsmash</string>
+		<string>canon.</string>
+		<string>locket widget</string>
+		<string>cameo</string>
+		<string>instdown</string>
+		<string>picnic</string>
+		<string>wallpapers for iphone</string>
+		<string>you</string>
+		<string>...you</string>
+		<string>ibis paint</string>
+		<string>story saver</string>
+		<string>clear</string>
+		<string>b612</string>
+		<string>pia</string>
+		<string>lightroom mobile</string>
+		<string>adobe lightroom mobile</string>
+		<string>nikon</string>
+		<string>lrs</string>
+		<string>adobe lightroom photo editor</string>
+		<string>lightroom presets</string>
+		<string>l&amp;t</string>
+		<string>the lightroom cc</string>
+		<string>adobe lightroom cc</string>
+		<string>light room</string>
+		<string>adobe photoshop lightroom</string>
+		<string>adobe lightroom</string>
+		<string>lightroom preset</string>
+		<string>adobe lightroom for iphone</string>
+		<string>the lightroom mobile app</string>
+		<string>free lightroom presets</string>
+		<string>speco</string>
+		<string>raw dslr</string>
+		<string>edit foto</string>
+		<string>lighten</string>
+		<string>remini</string>
+		<string>tezza</string>
+		<string>cartoon yourself</string>
+		<string>inst</string>
+		<string>huji</string>
+		<string>polarr</string>
+		<string>canon camera connect</string>
+		<string>adobe illustrator</string>
+		<string>flipagram</string>
+		<string>behance</string>
+		<string>smoothing</string>
+		<string>skin lover</string>
+		<string>facetoface</string>
+		<string>ivisage</string>
+		<string>soften</string>
+		<string>beauty style</string>
+		<string>photo brush</string>
+		<string>pimple remover</string>
+		<string>bearbeiten</string>
+		<string>whitening</string>
+		<string>photogenic</string>
+		<string>facetoon</string>
+		<string>red eye remover</string>
+		<string>gesichts</string>
+		<string>perfect skin</string>
+		<string>skinny</string>
+		<string>#selfie</string>
+		<string>columbus plastic surgery</string>
+		<string>facefull</string>
+		<string>face and body</string>
+		<string>blemished</string>
+		<string>yahoo mail</string>
+		<string>face app</string>
+		<string>taimi</string>
+		<string>facetime</string>
+		<string>prequel:</string>
+		<string>faceapp</string>
+		<string>airbrush</string>
+		<string>photo +</string>
+		<string>beauty plus</string>
+		<string>videoleap</string>
+		<string>pixelcut</string>
+		<string>meitu</string>
+		<string>body editor</string>
+		<string>snow</string>
+		<string>face swap</string>
+		<string>hair color changer</string>
+		<string>peachy</string>
+		<string>face tune</string>
+		<string>youcam perfect</string>
+		<string>perfect 365</string>
+		<string>faceplay</string>
+		<string>photoleap</string>
+		<string>soda</string>
+		<string>photo editor free</string>
+		<string>make up</string>
+		<string>facetune2</string>
+		<string>touchretouch</string>
+	</array>
+	<key>Braze</key>
+	<dict>
+		<key>Endpoint</key>
+		<string>sdk.iad-05.braze.com</string>
+	</dict>
+	<key>BuildMachineOSBuild</key>
+	<string>21G83</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>PS Express++</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>JPEG Image</string>
+			<key>LSHandlerRank</key>
+			<string>Alternate</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>public.jpeg</string>
+				<string>public.jpeg-2000</string>
+				<string>public.tiff</string>
+				<string>public.camera-raw-image</string>
+				<string>public.png</string>
+				<string>public.svg</string>
+				<string>com.microsoft.bmp</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>PNG Image</string>
+			<key>LSHandlerRank</key>
+			<string>Alternate</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>public.png</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>PS Express</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>ioscodevn.png</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string>com.adobe.PSMobile</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>PS Express</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>23.29.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>twitterkit-V41d86m6JoWZS6ZveFQPA</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>com.adobe.photoshopexpress</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.adobe.photoshopexpress</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>com.googleusercontent.apps.780902772217-99rvf6147rleoekt2b2ii6c00vcru5kg</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.314939745202-i90snn80nl1d1rqekmru95l090nmp2vo</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fbAPP-ID</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string></string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>db-7pe1q7mxkwvzv8m</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>fb-prod</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb292065597989</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>fb-stage</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb1944134782531116</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>fb-next</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb422319874513828</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>weixin</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>wx9c9ac7865b82d0ae</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.adobe.photoshopexpress</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.adobe.photoshopexpress</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.1062112142483-87ukp0ima0c5t9oogiqtq56a0irmv7k3</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.1062112142483-grrfjna2ckrmjlpa6e4ejegitudt6i1v</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.1062112142483-mnd2p4lpivo9su4r11chmc0h242d8tt1</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.1062112142483-5ag0vt95l02e5aoe220v12mpar0el0kj</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.adobe.psxpscbranchfix</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.adobe.psxpscbranchfix</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.adobe.PSMobile</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.adobe.PSMobile</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>23.29.0.7837</string>
+	<key>DTAppStoreToolsBuild</key>
+	<string>14E221</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>20C52</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>DTPlatformVersion</key>
+	<string>16.2</string>
+	<key>DTSDKBuild</key>
+	<string>20C52</string>
+	<key>DTSDKName</key>
+	<string>iphoneos16.2</string>
+	<key>DTXcode</key>
+	<string>1420</string>
+	<key>DTXcodeBuild</key>
+	<string>14C18</string>
+	<key>DTXcodeBuildDistribution</key>
+	<string>14C18</string>
+	<key>FacebookAdvertiserIDCollectionEnabled</key>
+	<false/>
+	<key>FacebookAppID</key>
+	<string>292065597989</string>
+	<key>FacebookAutoLogAppEventsEnabled</key>
+	<false/>
+	<key>FacebookClientToken</key>
+	<string>f7cdea72b5099db762eaa345a5f7759b</string>
+	<key>FacebookDisplayName</key>
+	<string>Adobe Photoshop Express</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>behance</string>
+		<string>fb</string>
+		<string>twitter</string>
+		<string>twitterauth</string>
+		<string>line</string>
+		<string>fb-messenger</string>
+		<string>fb-messenger-api</string>
+		<string>fb-messenger-share-api</string>
+		<string>adobepsmix</string>
+		<string>adobepsmixpsx</string>
+		<string>fbauth2</string>
+		<string>tumblr</string>
+		<string>instagram</string>
+		<string>whatsapp</string>
+		<string>adobelightroom</string>
+		<string>com.adobe.psfix</string>
+		<string>fbapi</string>
+		<string>fbshareextension</string>
+		<string>dbapi-8-emm</string>
+		<string>dbapi-2</string>
+		<string>adobesparkpost</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>14.0</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Allow to use photo library</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Allow to access Camera</string>
+	<key>NSLocationUsageDescription</key>
+	<string>PS Express adds location information to photos and generating smart captions during sharing.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>PS Express adds location information to photos and generating smart captions during sharing.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Allow to use photo library</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Allow to use photo library</string>
+	<key>PHPhotoLibraryPreventAutomaticLimitedAccessAlert</key>
+	<true/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>SourceSansPro-Regular.ttf</string>
+		<string>SourceSansPro-Black.otf</string>
+		<string>SourceSansPro-ExtraLight.otf</string>
+		<string>SourceSansPro-Regular.otf</string>
+		<string>SourceSerifPro-Bold.otf</string>
+		<string>SourceSerifPro-Regular.otf</string>
+		<string>AdobeClean-Bold.otf</string>
+		<string>AdobeClean-It.otf</string>
+		<string>AdobeClean-Light.otf</string>
+		<string>AdobeClean-Regular.otf</string>
+		<string>AdobeClean-SemiLight.otf</string>
+		<string>AcuminPro-Light.otf</string>
+		<string>AcuminPro-Regular.otf</string>
+		<string>AcuminProCond-Bold.otf</string>
+		<string>AcuminProExtraCond-Bold.otf</string>
+		<string>AGaramondPro-Bold.otf</string>
+		<string>AGaramondPro-Italic.otf</string>
+		<string>AGaramondPro-Regular.otf</string>
+		<string>AGaramondPro-Semibold.otf</string>
+		<string>AGaramondPro-SemiboldItalic.otf</string>
+		<string>AmaticSC-Regular.ttf</string>
+		<string>BickhamScriptStd-Regular.otf</string>
+		<string>BirchStd.otf</string>
+		<string>FloodStd.otf</string>
+		<string>Montserrat-Medium.ttf</string>
+		<string>PrestigeEliteStd-Bd.otf</string>
+		<string>TrajanPro3-Regular.otf</string>
+		<string>UtopiaStd-Bold.otf</string>
+		<string>UtopiaStd-Regular.otf</string>
+		<string>AdobeClean-Medium.otf</string>
+	</array>
+	<key>UIApplicationShortcutItems</key>
+	<array>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>EditPhotoShortcut</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Edit Last Photo</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>com.adobe.PSMobile.editLastPhoto</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>MakeCollageShortcut</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Make Collage</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>com.adobe.PSMobile.makeCollage</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>AutoCollageShortcut</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Auto Collage</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>com.adobe.PSMobile.autoCollage</string>
+		</dict>
+	</array>
+	<key>UIApplicationShortcutWidget</key>
+	<string>com.adobe.PSMobile.PSXTodayExtension</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+	<key>UILaunchImages</key>
+	<array>
+		<dict>
+			<key>UILaunchImageMinimumOSVersion</key>
+			<string>7.0</string>
+			<key>UILaunchImageName</key>
+			<string>LaunchImage-700</string>
+			<key>UILaunchImageOrientation</key>
+			<string>Portrait</string>
+			<key>UILaunchImageSize</key>
+			<string>{320, 480}</string>
+		</dict>
+		<dict>
+			<key>UILaunchImageMinimumOSVersion</key>
+			<string>7.0</string>
+			<key>UILaunchImageName</key>
+			<string>LaunchImage-700-568h</string>
+			<key>UILaunchImageOrientation</key>
+			<string>Portrait</string>
+			<key>UILaunchImageSize</key>
+			<string>{320, 568}</string>
+		</dict>
+		<dict>
+			<key>UILaunchImageMinimumOSVersion</key>
+			<string>7.0</string>
+			<key>UILaunchImageName</key>
+			<string>LaunchImage-700-Portrait</string>
+			<key>UILaunchImageOrientation</key>
+			<string>Portrait</string>
+			<key>UILaunchImageSize</key>
+			<string>{768, 1024}</string>
+		</dict>
+		<dict>
+			<key>UILaunchImageMinimumOSVersion</key>
+			<string>7.0</string>
+			<key>UILaunchImageName</key>
+			<string>LaunchImage-700-Landscape</string>
+			<key>UILaunchImageOrientation</key>
+			<string>Landscape</string>
+			<key>UILaunchImageSize</key>
+			<string>{768, 1024}</string>
+		</dict>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIPrerenderedIcon</key>
+	<true/>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportsDocumentBrowser</key>
+	<true/>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>branch_key</key>
+	<dict>
+		<key>live</key>
+		<string>key_live_fhPo4Nlbi7AIL5ltTMYpxllnxvljUYEs</string>
+		<key>test</key>
+		<string>key_test_clOk3Qgan3DKK0bAVK9HUjgiqxieVZrO</string>
+	</dict>
+	<key>branch_universal_link_domains</key>
+	<array>
+		<string>photoshopexpress.app.link</string>
+		<string>photoshopexpress.test-app.link</string>
+		<string>photoshopexpress-alternate.app.link</string>
+		<string>photoshopexpress-alternate.test-app.link</string>
+	</array>
+	<key>com.adobe.ccsdk.sharedKeychainGroup</key>
+	<string>QFRAMDQVL3.com.adobe.ccsdk.CreativeSDKGroup</string>
+	<key>com.apple.security.application-groups</key>
+	<array>
+		<string>group.com.adobe.360.exchange</string>
+	</array>
+</dict>
+</plist>

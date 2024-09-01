@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>21F2081</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>GlitchFX</string>
+	<key>CFBundleExecutable</key>
+	<string>Ornament</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon20x20</string>
+				<string>AppIcon29x29</string>
+				<string>AppIcon40x40</string>
+				<string>AppIcon60x60</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>AppIcon</string>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.yeyu.Ornament</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Ornament</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.7.1</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>101</string>
+	<key>DTAppStoreToolsBuild</key>
+	<string>14C17</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>19F64</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>DTPlatformVersion</key>
+	<string>15.5</string>
+	<key>DTSDKBuild</key>
+	<string>19F64</string>
+	<key>DTSDKName</key>
+	<string>iphoneos15.5</string>
+	<key>DTXcode</key>
+	<string>1341</string>
+	<key>DTXcodeBuild</key>
+	<string>13F100</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>instagram</string>
+		<string>fb</string>
+		<string>twitter</string>
+		<string>youtube</string>
+		<string>musically</string>
+		<string>snapchat</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>8.0</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>We need media library access to add music to video.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This lets you record video to apply filters and effects.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>We need access to your microphone to have sound in your videos.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>This lets you load videos from your library and save videos to your Camera Roll. </string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This lets you load videos from your library and save videos to your Camera Roll. </string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Quicksand-Regular.ttf
+FXPreviewViewController.m
+StoreViewController.h
+Quicksand-Regular.ttf</string>
+		<string>SF-UI-Text-Regular.otf</string>
+		<string>Quicksand-Bold.ttf</string>
+		<string>arvil-sans.ttf</string>
+		<string>talldark.ttf</string>
+		<string>DIN-Medium.ttf</string>
+		<string>DIN-Light.ttf</string>
+		<string>BigStem-Regular.ttf</string>
+		<string>SF-UI-Display-Semibold.otf</string>
+		<string>Futura Std Medium.ttf</string>
+	</array>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

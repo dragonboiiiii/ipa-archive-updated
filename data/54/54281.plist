@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>22D68</string>
+	<key>CADisableMinimumFrameDuration</key>
+	<true/>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Filmmaker Pro++</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Audio</string>
+			<key>LSHandlerRank</key>
+			<string>Alternate</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>public.audio</string>
+				<string>public.mp3</string>
+				<string>public.mpeg-4-audio</string>
+				<string>com.apple.protected-​mpeg-4-audio</string>
+				<string>public.aifc-audio</string>
+				<string>com.apple.coreaudio-​format</string>
+				<string>public.aiff-audio</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Font</string>
+			<key>LSHandlerRank</key>
+			<string>Alternate</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>public.opentype-font</string>
+				<string>public.truetype-ttf-font</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeIconFiles</key>
+			<array/>
+			<key>CFBundleTypeName</key>
+			<string>Filmmaker Pro</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSHandlerRank</key>
+			<string>Owner</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.filmmakerpro.fpd</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>Filmmaker Pro</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>ioscodevn.png</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string>gemini.Filmmaker-Pro</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Filmmaker Pro</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>10.5.5</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string></string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>filmmakerpro</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>DTAppStoreToolsBuild</key>
+	<string>14C17</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>20C52</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>DTPlatformVersion</key>
+	<string>16.2</string>
+	<key>DTSDKBuild</key>
+	<string>20C52</string>
+	<key>DTSDKName</key>
+	<string>iphoneos16.2</string>
+	<key>DTXcode</key>
+	<string>1420</string>
+	<key>DTXcodeBuild</key>
+	<string>14C18</string>
+	<key>DTXcodeBuildDistribution</key>
+	<string>14C18</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>procam2</string>
+		<string>instagram</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>LSSupportsOpeningDocumentsInPlace</key>
+	<false/>
+	<key>MinimumOSVersion</key>
+	<string>13.0</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>NSAppleMusicUsageDescription</string>
+	<key>NSCameraUsageDescription</key>
+	<string>NSCameraUsageDescription</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string></string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>NSLocationWhenInUseUsageDescription</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>NSMicrophoneUsageDescription</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>NSPhotoLibraryUsageDescription</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>NSPhotoLibraryUsageDescription</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>NSSpeechRecognitionUsageDescription</string>
+	<key>PHPhotoLibraryPreventAutomaticLimitedAccessAlert</key>
+	<true/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>ufonts.com_arial-narrow.ttf</string>
+		<string>AguafinaScript-Regular.ttf</string>
+		<string>AlexBrush-Regular.ttf</string>
+		<string>AlfaSlabOne-Regular.ttf</string>
+		<string>AlmendraSC-Regular.otf</string>
+		<string>Amatic-Bold.ttf</string>
+		<string>Arizonia-Regular.ttf</string>
+		<string>armalite_rifle.ttf</string>
+		<string>Artifika-Regular.ttf</string>
+		<string>Bahiana-Regular.otf</string>
+		<string>Barrio-Regular.otf</string>
+		<string>Bellota-Bold.otf</string>
+		<string>Bentham.otf</string>
+		<string>Bevan.ttf</string>
+		<string>Bilbo-Regular.otf</string>
+		<string>Bitter-Regular.otf</string>
+		<string>black_jack.ttf</string>
+		<string>Blackout-Midnight.ttf</string>
+		<string>Blackout-2am.ttf</string>
+		<string>Boogaloo-Regular.otf</string>
+		<string>boston_traffic.ttf</string>
+		<string>BowlbyOne-Regular.otf</string>
+		<string>BOYCOTT_.ttf</string>
+		<string>BubblegumSans-Regular.otf</string>
+		<string>Capture_it.ttf</string>
+		<string>Capture_it_2.ttf</string>
+		<string>carbontype.ttf</string>
+		<string>Caslon_Calligraphic.ttf</string>
+		<string>CaviarDreams.ttf</string>
+		<string>CevicheOne-Regular.otf</string>
+		<string>CherrySwash-Regular.otf</string>
+		<string>Chivo-Bold.otf</string>
+		<string>Chunkfive.otf</string>
+		<string>Graviton - CintraInlineUnicase.otf</string>
+		<string>Graviton - CintraStencilUnicase.otf</string>
+		<string>ComicRelief.ttf</string>
+		<string>Condiment-Regular.otf</string>
+		<string>DancingScript-Regular.otf</string>
+		<string>desyrel.ttf</string>
+		<string>Typodermic - Dirtstorm-Regular.otf</string>
+		<string>District.ttf</string>
+		<string>Dited.otf</string>
+		<string>Dynalight-Regular.otf</string>
+		<string>ElsieSwashCaps-Regular.otf</string>
+		<string>EuphoriaScript-Regular.otf</string>
+		<string>Fascinate-Regular.otf</string>
+		<string>Felipa-Regular.otf</string>
+		<string>FingerPaint-Regular.ttf</string>
+		<string>Forque.ttf</string>
+		<string>Flavors-Regular.ttf</string>
+		<string>Flux_Architect_Bold_Italic.ttf</string>
+		<string>FoglihtenNo01.otf</string>
+		<string>FoglihtenNo07.otf</string>
+		<string>Furore.otf</string>
+		<string>GEIST_RND.ttf</string>
+		<string>GenzschEtHeyse.ttf</string>
+		<string>Geo_Oblique.otf</string>
+		<string>GoblinOne.otf</string>
+		<string>GONGN___.ttf</string>
+		<string>Gputeks-Bold.ttf</string>
+		<string>GrandHotel-Regular.otf</string>
+		<string>GreatVibes-Regular.otf</string>
+		<string>heavy_data.ttf</string>
+		<string>helsinki.ttf</string>
+		<string>HennyPenny-Regular.otf</string>
+		<string>HOMINIS.ttf</string>
+		<string>immortal.ttf</string>
+		<string>Intruder.ttf</string>
+		<string>itsadzoke-046.otf</string>
+		<string>jr!ha___.ttf</string>
+		<string>KARNIVOT.ttf</string>
+		<string>KaushanScript-Regular.otf</string>
+		<string>KellySlab-Regular.otf</string>
+		<string>Kingthings_Calligraphica_2.ttf</string>
+		<string>Kingthings_Trypewriter_2.ttf</string>
+		<string>KOMIKAX_.ttf</string>
+		<string>Limelight.ttf</string>
+		<string>loaded.ttf</string>
+		<string>LoversQuarrel-Regular.otf</string>
+		<string>Metro.otf</string>
+		<string>Moms_typewriter.ttf</string>
+		<string>Monoton-Regular.ttf</string>
+		<string>MyUnderwood.ttf</string>
+		<string>nervous_rex.ttf</string>
+		<string>Niconne-Regular.ttf</string>
+		<string>old_stamper.ttf</string>
+		<string>Duplexide.ttf</string>
+		<string>Pacifico.ttf</string>
+		<string>pincoyablack.otf</string>
+		<string>quick_end_jerk.ttf</string>
+		<string>Risque-Regular.otf</string>
+		<string>veteran_typewriter.ttf</string>
+		<string>Sevillana-Regular.ttf</string>
+		<string>SonsieOne-Regular.otf</string>
+		<string>spincycle_ot.otf</string>
+		<string>spincycle_3d_ot.otf</string>
+		<string>Typodermic - Stampoo.ttf</string>
+		<string>techniqu.ttf</string>
+		<string>underwood_champion.ttf</string>
+		<string>VeggiBol.otf</string>
+		<string>virgo.ttf</string>
+		<string>yukarimobil.ttf</string>
+		<string>zero_and_zero_is.ttf</string>
+		<string>SF-UI-Text-Regular.otf</string>
+		<string>SF-UI-Text-Light.otf</string>
+		<string>SF-UI-Text-Medium.otf</string>
+		<string>SF-UI-Text-Heavy.otf</string>
+		<string>SF-UI-Text-Bold.otf</string>
+		<string>SF-UI-Text-LightItalic.otf</string>
+		<string>SF-UI-Text-MediumItalic.otf</string>
+		<string>SF-UI-Text-RegularItalic.otf</string>
+		<string>SF-UI-Text-HeavyItalic.otf</string>
+		<string>SF-UI-Text-BoldItalic.otf</string>
+		<string>Casper.ttf</string>
+		<string>csnpwdt NFI.otf</string>
+		<string>Fiddums Family.ttf</string>
+		<string>Friday13.ttf</string>
+		<string>HOMOARAK.TTF</string>
+		<string>ParryHotter.ttf</string>
+		<string>Scream Real.ttf</string>
+		<string>terminator real nfi.ttf</string>
+		<string>TheGodfather-v2.ttf</string>
+		<string>Tr2n.ttf</string>
+		<string>WillyWonka.ttf</string>
+		<string>AvengeanceHeroicAvengerBoldItalic.ttf</string>
+		<string>Godzilla MovieFont.ttf</string>
+		<string>BladeRunnerMovieFont.ttf</string>
+		<string>spongefont.ttf</string>
+		<string>CFB1 American Patriot SOLID 2 Normal.ttf</string>
+		<string>Andalusia Script.otf</string>
+		<string>Black And White.otf</string>
+		<string>Blingtastic Script.otf</string>
+		<string>Brilliant.otf</string>
+		<string>Everglow.otf</string>
+		<string>GardenGrown.otf</string>
+		<string>HelloStockholm-Regular.otf</string>
+		<string>HelloSunshine.otf</string>
+		<string>Herchey Script.otf</string>
+		<string>Kathya Script.otf</string>
+		<string>LoveletterScript-Regular.otf</string>
+		<string>Molly Script.otf</string>
+		<string>Roselina Script.otf</string>
+		<string>Smoothie Shoppe.otf</string>
+		<string>The Sweetest Thing.otf</string>
+		<string>Thunderstorm.otf</string>
+		<string>Amber Taste Basic.otf</string>
+		<string>Aviator-Bold.otf</string>
+		<string>Badmood.otf</string>
+		<string>Beauford-Regular.otf</string>
+		<string>The Bridge Shadow.otf</string>
+		<string>brooklyncofferegular-brooklyncofferegular.otf</string>
+		<string>Bujole-Distorted.ttf</string>
+		<string>Buntara Regular.otf</string>
+		<string>CordialSwash.otf</string>
+		<string>Dollar Bill 2.otf</string>
+		<string>Driver-Regular.otf</string>
+		<string>Into the Wild.otf</string>
+		<string>Jason Caps_Distressed.otf</string>
+		<string>Jeebz-Bold.ttf</string>
+		<string>LesPaul-Normal.otf</string>
+		<string>Lovebus.otf</string>
+		<string>OTTANTA-Regular.otf</string>
+		<string>OverEasy-Regular.otf</string>
+		<string>Reckless.otf</string>
+		<string>Retro.ttf</string>
+		<string>RocknRollBold.otf</string>
+		<string>SmokingTypefaceFull-Regular.otf</string>
+		<string>SOLID70-Regular.otf</string>
+		<string>StandardIssue-Heavy.ttf</string>
+		<string>Tulip.otf</string>
+		<string>WestwoodBold.otf</string>
+		<string>HomeBrush-VMF.otf</string>
+		<string>Bayshore.otf</string>
+		<string>Better Times Alt.otf</string>
+		<string>Billy Ohio.otf</string>
+		<string>BLACKHAWK.otf</string>
+		<string>Candyhouse Caps.otf</string>
+		<string>Cejo Brush.otf</string>
+		<string>JFK - Codex Gigas.otf</string>
+		<string>graffiti_classic.otf</string>
+		<string>Harley Style Brush.otf</string>
+		<string>Heatwave.otf</string>
+		<string>SleepingCopsFont.otf</string>
+		<string>Hyperwave Three.ttf</string>
+		<string>MarkerTag-Regular.otf</string>
+		<string>Okami.otf</string>
+		<string>PermanentMarkerPro.otf</string>
+		<string>Recolter.otf</string>
+		<string>SamuraiHipHop.otf</string>
+		<string>SoftVintage.otf</string>
+		<string>SouthCentral-Regular.otf</string>
+		<string>StreeBol.otf</string>
+		<string>Sweet Sucker Punch.otf</string>
+		<string>Wall Hunters.otf</string>
+		<string>Arial Narrow Bold.ttf</string>
+		<string>SF Pro Text Bold.ttf</string>
+		<string>SF-UI-Text-BoldItalic.ttf</string>
+	</array>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+	</array>
+	<key>UISupportsDocumentBrowser</key>
+	<false/>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>UTExportedTypeDeclarations</key>
+	<array>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>com.apple.package</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>Filmmaker Pro</string>
+			<key>UTTypeIconFiles</key>
+			<array/>
+			<key>UTTypeIdentifier</key>
+			<string>com.filmmakerpro.fpd</string>
+			<key>UTTypeSize320IconFile</key>
+			<string></string>
+			<key>UTTypeSize64IconFile</key>
+			<string></string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>fpd</string>
+				</array>
+			</dict>
+		</dict>
+	</array>
+	<key>com.apple.developer.kernel.increased-memory-limit</key>
+	<true/>
+</dict>
+</plist>
