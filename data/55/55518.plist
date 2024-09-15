@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>17C88</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Animoji_Studio (getzeus.app)</string>
+	<key>CFBundleExecutable</key>
+	<string>AnimojiStudio</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon60x60</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>AppIcon</string>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>app.zeus.74542a078b065d2ee692cde134bd34</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Animoji_Studio (getzeus.app)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.2.2</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>fun.Animoji.Spotify.login</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>animojistudio</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>15C107</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>DTPlatformVersion</key>
+	<string>11.2</string>
+	<key>DTSDKBuild</key>
+	<string>15C107</string>
+	<key>DTSDKName</key>
+	<string>iphoneos11.2</string>
+	<key>DTXcode</key>
+	<string>0920</string>
+	<key>DTXcodeBuild</key>
+	<string>9C40b</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>spotify-action</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>11.1</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>I need access to your media library to enhance your videos</string>
+	<key>NSCameraUsageDescription</key>
+	<string>I need to access your camera to capture your facial expressions</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>I need access to the microphone to record audio</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>I need access to your photo library to save your video</string>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+	</array>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>front-depth-camera</string>
+		<string>arm64</string>
+	</array>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleDefault</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>kTCCServiceMediaLibrary</key>
+	<string>If you want to lip sync, I need to access your Music library</string>
+</dict>
+</plist>
