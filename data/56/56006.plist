@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>UIRequiredDeviceCapabilities</key>
+    <array>
+      <string>armv7</string>
+    </array>
+    <key>UIRequiresFullScreen</key>
+    <true/>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>DTCompiler</key>
+    <string>com.apple.compilers.llvm.clang.1_0</string>
+    <key>DTPlatformVersion</key>
+    <string>15.4</string>
+    <key>UILaunchStoryboardName~ipad</key>
+    <string>LaunchScreen-iPad</string>
+    <key>CFBundleName</key>
+    <string>Cut the Finger - Sharp Knives</string>
+    <key>DTSDKName</key>
+    <string>iphoneos15.4</string>
+    <key>UILaunchStoryboardName~iphone</key>
+    <string>LaunchScreen-iPhone</string>
+    <key>UIViewControllerBasedStatusBarAppearance</key>
+    <false/>
+    <key>NSHumanReadableCopyright</key>
+    <string>Copyright ©2022 One Tap Games. All rights reserved.</string>
+    <key>CFBundleIcons</key>
+    <dict>
+      <key>CFBundlePrimaryIcon</key>
+      <dict>
+        <key>CFBundleIconFiles</key>
+        <array>
+          <string>AppIcon20x20</string>
+          <string>AppIcon29x29</string>
+          <string>AppIcon40x40</string>
+          <string>AppIcon57x57</string>
+          <string>AppIcon60x60</string>
+        </array>
+        <key>CFBundleIconName</key>
+        <string>AppIcon</string>
+      </dict>
+    </dict>
+    <key>UIStatusBarStyle</key>
+    <string>UIStatusBarStyleDefault</string>
+    <key>CADisableMinimumFrameDuration</key>
+    <false/>
+    <key>CFBundleDisplayName</key>
+    <string>Cut the Finger</string>
+    <key>LSRequiresIPhoneOS</key>
+    <true/>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Cut the Finger - Sharp Knives location use</string>
+    <key>UIRequiresPersistentWiFi</key>
+    <false/>
+    <key>UnityCloudProjectID</key>
+    <string></string>
+    <key>App Data</key>
+    <data>
+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
+2+QzooI/24eUea6xToGKm6JFi2CCz2MJhn0=
+</data>
+    <key>DTSDKBuild</key>
+    <string>19E239</string>
+    <key>CFBundleShortVersionString</key>
+    <string>21.10.10</string>
+    <key>CFBundleSupportedPlatforms</key>
+    <array>
+      <string>iPhoneOS</string>
+    </array>
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+      <string>UIInterfaceOrientationPortrait</string>
+    </array>
+    <key>UILaunchStoryboardName~ipod</key>
+    <string>LaunchScreen-iPhone</string>
+    <key>BuildMachineOSBuild</key>
+    <string>21A559</string>
+    <key>DTPlatformBuild</key>
+    <string>19E239</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>DTXcodeBuild</key>
+    <string>13E500a</string>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>MinimumOSVersion</key>
+    <string>10.3</string>
+    <key>CFBundleVersion</key>
+    <string>398</string>
+    <key>UIPrerenderedIcon</key>
+    <false/>
+    <key>UIStatusBarHidden</key>
+    <true/>
+    <key>UnityCrashSubmissionURL</key>
+    <string></string>
+    <key>UIDeviceFamily</key>
+    <array>
+      <integer>1</integer>
+      <integer>2</integer>
+    </array>
+    <key>UILaunchStoryboardName</key>
+    <string>LaunchScreen-iPhone</string>
+    <key>CFBundleIdentifier</key>
+    <string>mobi.ittop.FingerKillerlite</string>
+    <key>DTXcode</key>
+    <string>1331</string>
+    <key>CFBundleExecutable</key>
+    <string>FingerKiller</string>
+    <key>NSAppTransportSecurity</key>
+    <dict>
+      <key>NSAllowsArbitraryLoads</key>
+      <true/>
+    </dict>
+    <key>Unity_LoadingActivityIndicatorStyle</key>
+    <integer>-1</integer>
+    <key>CFBundleIcons~ipad</key>
+    <dict>
+      <key>CFBundlePrimaryIcon</key>
+      <dict>
+        <key>CFBundleIconFiles</key>
+        <array>
+          <string>AppIcon20x20</string>
+          <string>AppIcon29x29</string>
+          <string>AppIcon40x40</string>
+          <string>AppIcon57x57</string>
+          <string>AppIcon60x60</string>
+          <string>AppIcon50x50</string>
+          <string>AppIcon72x72</string>
+          <string>AppIcon76x76</string>
+          <string>AppIcon83.5x83.5</string>
+        </array>
+        <key>CFBundleIconName</key>
+        <string>AppIcon</string>
+      </dict>
+    </dict>
+    <key>DTPlatformName</key>
+    <string>iphoneos</string>
+    <key>ITSAppUsesNonExemptEncryption</key>
+    <false/>
+    <key>SKAdNetworkItems</key>
+    <array>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>ppxm28t8ap.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>yclnxrl5pm.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>238da6jt44.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>av6w8kgt66.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>3sh42y64q3.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>f7s53z58qe.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>7ug5zh24hu.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>4pfyvq9l8r.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>t38b2kh725.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>m8dbw4sv7c.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>cstr6suwn9.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>578prtvx9j.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>488r3q3dtq.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>9rd848q2bz.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>zmvfpc5aq8.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>v79kvwwj4g.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>tl55sbb4fm.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>8s468mfl3y.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>lr83yxwka7.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>glqzh8vgby.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>5tjdwbrq8w.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>wg4vff78zm.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>ydx93a7ass.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>4468km3ulz.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>5a6flpkh64.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>a2p9lx4jpn.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>prcb7njmu6.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>2u9pt9hc89.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>s39g8k73mm.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>w9q455wk68.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>424m5254lk.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>kbd757ywx3.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>hs6bdukanm.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>294l99pt4k.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>k674qkevps.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>v72qych5uu.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>3qy4746246.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>32z4fx6l9h.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>f38h382jlk.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>4fzdc2evr5.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>zq492l623r.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>4w7y6s5ca2.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>4dzt52r2t5.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>mp6xlyr22a.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>f73kdq92p3.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>x44k69ngh6.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>9t245vhmpl.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>5lm9lj6jb7.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>3rd42ekr43.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>c6k4g5qg8m.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>44jx6755aq.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>mlmmfzh3r3.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>22mmun2rn5.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>wzmmz9fp6w.skadnetwork</string>
+      </dict>
+      <dict>
+        <key>SKAdNetworkIdentifier</key>
+        <string>4DZT52R2T5.skadnetwork</string>
+      </dict>
+    </array>
+    <key>DTAppStoreToolsBuild</key>
+    <string>14A305</string>
+  </dict>
+</plist>
