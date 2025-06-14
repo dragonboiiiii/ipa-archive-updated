@@ -8,5 +8,5 @@ with open('urls.txt', 'r') as file:
 for url in urls:
     url = url.strip()  # Remove any leading/trailing whitespace or newline characters
     if url:  # Ensure the line isn't empty
-        command = f"python ipa_archive.py add {url}"
+        command = f"python main.py add {url}"
         os.system(command)
