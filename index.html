@@ -1,56 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0">
-	<meta name="referrer" content="no-referrer">
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>IPA Archive</title>
-
-	<!-- icons -->
-	<link rel="shortcut icon"      href="./favicon.ico">
-	<link rel="apple-touch-icon"   sizes="180x180" href="./apple-touch-icon.png">
-
-	<!-- switch to the requested stylesheet -->
-	<link rel="stylesheet"         href="frutiger-aero.css">
-
-	<script src="script.js"></script>
+	<link rel="stylesheet" href="frutiger-aero.css" />
+	<link rel="shortcut icon" href="./favicon.ico" />
+	<script defer src="script.js"></script>
 </head>
 
-<!-- animated blue gradient background defined in frutiger-aero.css -->
 <body class="bg-blue bg-animate">
-
-	<!-- gradient navigation bar -->
 	<nav id="f-navbar">
 		<a href="#" class="active">IPA&nbsp;Archive</a>
 		<a style="float:right" onclick="randomIPA()">Random</a>
 	</nav>
 
-	<!-- main layout wrapper (920 px centre-column) -->
 	<main id="f-container">
 		<section class="f-content">
 			<h1>IPA Archive</h1>
 
 			<form onsubmit="event.preventDefault(); searchIPA(); return false;" autocomplete="off">
-				<input id="page"   hidden>
-				<input id="minid"  hidden>
+				<input id="page" hidden>
+				<input id="minid" hidden>
 
 				<label for="search">Search:
 					<input id="search" placeholder="Search">
 				</label>
 
 				<label for="bundleid">BundleId:
-					<input id="bundleid" placeholder="com.gameloft.">
+					<input id="bundleid" placeholder="com.example.app">
 				</label>
 
 				<label for="unique">Unique:
 					<input id="unique" type="checkbox" checked>
 				</label>
 
-				<label for="minos">min&nbsp;OS:
+				<label for="minos">Min OS:
 					<input id="minos" placeholder="1.0">
 				</label>
 
-				<label for="maxos">max&nbsp;OS:
+				<label for="maxos">Max OS:
 					<input id="maxos" placeholder="5.1.1">
 				</label>
 
@@ -67,34 +56,37 @@
 				<button type="submit">Search</button>
 			</form>
 
-			<!-- results slot -->
 			<div id="content">JavaScript disabled?</div>
 		</section>
 	</main>
 
-	<!-- templates – untouched, just moved outside .f-content so the clones aren't boxed -->
+	<!-- REQUIRED TEMPLATE -->
 	<div id="templates" hidden>
-		<!-- (original template markup here – kept exactly the same) -->
+		<template id="ipa">
+			<div class="ipa-entry">
+				<h2 class="ipa-title"></h2>
+				<p class="ipa-bundle"></p>
+				<p class="ipa-version"></p>
+				<p class="ipa-size"></p>
+			</div>
+		</template>
 	</div>
 
-	<!-- install-on-device overlay – unchanged -->
+	<!-- install-on-device overlay -->
 	<div id="overlay" hidden>
 		<div id="installMsg">
 			<h3>Install on device</h3>
 			<p>
-				Unfortunately, this function is not possible with static HTML+JS.
-				You must provide a plist generator URL.
-				See <a href="https://github.com/stuffed18/ipa-archive-updated?tab=readme-ov-file#starting-plist-server" target="_blank">Readme</a> for further instructions.
+				This function requires a working plist server.<br>
+				See <a href="https://github.com/stuffed18/ipa-archive-updated#starting-plist-server" target="_blank">the README</a>.
 			</p>
 			<form onsubmit="event.preventDefault(); setPlistGen(); return false;" autocomplete="off">
-				<label for="plistServer">Generator&nbsp;URL:</label>
+				<label for="plistServer">Generator URL:</label>
 				<input id="plistServer" placeholder="http://192.168.0.1/">
 				<button type="submit">Save</button>
 				<button type="button" onclick="document.getElementById('overlay').hidden = true">Abort</button>
 			</form>
 		</div>
 	</div>
-
-	<script>loadDB();</script>
 </body>
 </html>
